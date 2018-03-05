@@ -1,0 +1,763 @@
+{"postal_code":"3513 TJ","city":"Utrecht","kind":"house","address":"1e Daalsedijk 214","price":"295000","build_year":"1904","area":"68"}
+{"postal_code":"3553 VK","city":"Utrecht","kind":"house","address":"Herman Modedstraat 9","price":"299000","build_year":"1925","area":"99"}
+{"postal_code":"3544 SB","city":"Utrecht","kind":"house","address":"Houtrakgracht 125","price":"335000","build_year":"1999","area":"109"}
+{"postal_code":"3513 TE","city":"Utrecht","kind":"house","address":"1e Daalsedijk 179","price":"175000","build_year":"1910","area":"46"}
+{"postal_code":"3544 MC","city":"Utrecht","kind":"house","address":"Kees van Bohemenhof 31","price":"435000","build_year":"2006","area":"138"}
+{"postal_code":"3513 CN","city":"Utrecht","kind":"house","address":"Otterstraat 66","price":"699000","build_year":"1903","area":"171"}
+{"postal_code":"3552 XP","city":"Utrecht","kind":"house","address":"Pijlstraat 14","price":"325000","build_year":"1910","area":"104"}
+{"postal_code":"3531 AR","city":"Utrecht","kind":"house","address":"Krugerstraat 46","price":"665000","build_year":"2013","area":"151"}
+{"postal_code":"3544 VN","city":"Utrecht","kind":"house","address":"Dennewitjeshof 24","price":"525000","build_year":"2002","area":"146"}
+{"postal_code":"3581 MT","city":"Utrecht","kind":"house","address":"Zonstraat 36","price":"339000","build_year":"1910","area":"77"}
+{"postal_code":"3572 EH","city":"Utrecht","kind":"house","address":"Obrechtstraat 70","price":"469000","build_year":"1908","area":"100"}
+{"postal_code":"3523 KA","city":"Utrecht","kind":"house","address":"Roelof Drosthof 1","price":"525000","build_year":"2010","area":"163"}
+{"postal_code":"3571 CB","city":"Utrecht","kind":"house","address":"Regentesselaan 49","price":"725000","build_year":"1935","area":"135"}
+{"postal_code":"3543 JG","city":"Utrecht","kind":"house","address":"Robert Stolzlaan 21","price":"395000","build_year":"2003","area":"140"}
+{"postal_code":"3544 ZA","city":"Utrecht","kind":"house","address":"Agaatvlindersingel 60","price":"550000","build_year":"2009","area":"180"}
+{"postal_code":"3583 JJ","city":"Utrecht","kind":"house","address":"Stadhouderslaan 32","price":"875000","build_year":"1906","area":"200"}
+{"postal_code":"3543 GC","city":"Utrecht","kind":"house","address":"Sigmund Rombergstraat 35","price":"440000","build_year":"2017","area":"65"}
+{"postal_code":"3584 GL","city":"Utrecht","kind":"house","address":"Esther de Boer-van Rijklaan 23","price":"650000","build_year":"1978","area":"167"}
+{"postal_code":"3541 AG","city":"Utrecht","kind":"house","address":"Andre Voltenlaan 17","price":"448000","build_year":"2011","area":"148"}
+{"postal_code":"3543 CW","city":"Utrecht","kind":"appartement","address":"Oscar Hammersteinstraat 29","price":"225000","build_year":"2006","area":"62","service":"88"}
+{"postal_code":"3526 ES","city":"Utrecht","kind":"appartement","address":"Vasco da Gamalaan 147","price":"190000","build_year":"1988","area":"74","service":"131"}
+{"postal_code":"3584 AB","city":"Utrecht","kind":"appartement","address":"Herculeslaan 76","price":"498000","build_year":"2008","area":"131","service":"241"}
+{"postal_code":"3521 BE","city":"Utrecht","kind":"appartement","address":"Veilingstraat 23","price":"600000","build_year":"2006","area":"160","service":"276"}
+{"postal_code":"3573 AN","city":"Utrecht","kind":"appartement","address":"Aartsbisschop Romerostraat 357","price":"220000","build_year":"1991","area":"70","service":"130"}
+{"postal_code":"3544 SC","city":"Utrecht","kind":"appartement","address":"Houtrakgracht 255","price":"235000","build_year":"2001","area":"93","service":"146"}
+{"postal_code":"3544 MD","city":"Utrecht","kind":"house","address":"Paul Citroenstraat 3","price":"339500","build_year":"2008","area":"113"}
+{"postal_code":"3531 KT","city":"Utrecht","kind":"house","address":"Paramaribostraat 106","price":"375000","build_year":"1930","area":"90"}
+{"postal_code":"3552 GN","city":"Utrecht","kind":"house","address":"Morelstraat 30","price":"309000","build_year":"1975","area":"123"}
+{"postal_code":"3513 BP","city":"Utrecht","kind":"house","address":"Singelstraat 24","price":"289000","build_year":"1877","area":"64"}
+{"postal_code":"3584 AJ","city":"Utrecht","kind":"house","address":"Cicerolaan 19","price":"850000","build_year":"1965","area":"170"}
+{"postal_code":"3554 XD","city":"Utrecht","kind":"house","address":"Den Brielstraat 15","price":"310000","build_year":"1930","area":"93"}
+{"postal_code":"3581 LG","city":"Utrecht","kind":"house","address":"Oudwijkerdwarsstraat 82","price":"275000","build_year":"1920","area":"75"}
+{"postal_code":"3571 CK","city":"Utrecht","kind":"house","address":"Prof. Sjollemalaan 1","price":"549500","build_year":"1930","area":"107"}
+{"postal_code":"3582 DP","city":"Utrecht","kind":"house","address":"Zeemeeuwhof 19","price":"550000","build_year":"2009","area":"123"}
+{"postal_code":"3581 JA","city":"Utrecht","kind":"house","address":"Van Alphenstraat 35","price":"575000","build_year":"1913","area":"109"}
+{"postal_code":"3543 DR","city":"Utrecht","kind":"house","address":"Jule Stynestraat 32","price":"469000","build_year":"2006","area":"174"}
+{"postal_code":"3526 VE","city":"Utrecht","kind":"house","address":"Amerikalaan 4","price":"224500","build_year":"1965","area":"107"}
+{"postal_code":"3525 VL","city":"Utrecht","kind":"house","address":"Julianaweg 198","price":"400000","build_year":"1935","area":"97"}
+{"postal_code":"3524 WH","city":"Utrecht","kind":"house","address":"Jungfrau 7","price":"275000","build_year":"1983","area":"96"}
+{"postal_code":"3561 EN","city":"Utrecht","kind":"house","address":"Donaudreef 62","price":"390000","build_year":"2014","area":"152"}
+{"postal_code":"3555 HV","city":"Utrecht","kind":"house","address":"Amsterdamsestraatweg 1107","price":"945000","build_year":"1904","area":"293"}
+{"postal_code":"3553 BK","city":"Utrecht","kind":"appartement","address":"Edisonstraat 19","price":"200000","build_year":"1926","area":"64","service":"32"}
+{"postal_code":"3573 PA","city":"Utrecht","kind":"appartement","address":"Kemal Atatürkstraat 6","price":"315000","build_year":"1991","area":"96","service":"170"}
+{"postal_code":"3511 MP","city":"Utrecht","kind":"appartement","address":"Arthur van Schendelstraat 619","price":"300000","build_year":"1992","area":"81","service":"117"}
+{"postal_code":"3513 CS","city":"Utrecht","kind":"appartement","address":"Kruisweg 7 L","price":"399000","build_year":"1889","area":"103","service":"126"}
+{"postal_code":"3553 VD","city":"Utrecht","kind":"appartement","address":"Hermannus Elconiusstraat 2 a1","price":"189000","build_year":"1935","area":"51","service":"30"}
+{"postal_code":"3521 DE","city":"Utrecht","kind":"appartement","address":"Voorsterbeeklaan 40 +P","price":"475000","build_year":"2011","area":"119","service":"128"}
+{"postal_code":"3584 HD","city":"Utrecht","kind":"appartement","address":"Albert van Dalsumlaan 189","price":"270000","build_year":"1979","area":"76","service":"106"}
+{"postal_code":"3562 ES","city":"Utrecht","kind":"appartement","address":"Theemsdreef 452","price":"150000","build_year":"1965","area":"92","service":"190"}
+{"postal_code":"3513 EX","city":"Utrecht","kind":"appartement","address":"Oudenoord 440","price":"189000","build_year":"1951","area":"47","service":"20"}
+{"postal_code":"3562 AJ","city":"Utrecht","kind":"appartement","address":"Pahud de Mortangesdreef 286","price":"125000","build_year":"1967","area":"53","service":"177"}
+{"postal_code":"3555 WB","city":"Utrecht","kind":"appartement","address":"Ter Laanstraat 15","price":"165000","build_year":"2006","area":"48","service":"58"}
+{"postal_code":"3511 MP","city":"Utrecht","kind":"appartement","address":"Arthur van Schendelstraat 585","price":"250000","build_year":"1992","area":"59","service":"93"}
+{"postal_code":"3552 XC","city":"Utrecht","kind":"appartement","address":"Anthoniedijk 23 A","price":"169000","build_year":"1972","area":"33"}
+{"postal_code":"3524 TE","city":"Utrecht","kind":"house","address":"Betuwe 139","price":"325000","build_year":"1981","area":"108"}
+{"postal_code":"3541 RJ","city":"Utrecht","kind":"house","address":"Kardemomweg 34","price":"385000","build_year":"2014","area":"132"}
+{"postal_code":"3551 TG","city":"Utrecht","kind":"house","address":"Bremstraat 104","price":"244500","build_year":"1915","area":"62"}
+{"postal_code":"3555 SX","city":"Utrecht","kind":"house","address":"Vechtoever 15","price":"350000","build_year":"1998","area":"128"}
+{"postal_code":"3543 JN","city":"Utrecht","kind":"house","address":"Carl Zellerhof 16","price":"314500","build_year":"2004","area":"104"}
+{"postal_code":"3571 WC","city":"Utrecht","kind":"house","address":"Dr. H.J. Lovinklaan 1","price":"795000","build_year":"1930","area":"160"}
+{"postal_code":"3511 LH","city":"Utrecht","kind":"house","address":"Mariaplaats 10","price":"749000","build_year":"2001","area":"197"}
+{"postal_code":"3581 ET","city":"Utrecht","kind":"house","address":"Oorsprongpark 9","price":"1500000","build_year":"1885","area":"500"}
+{"postal_code":"3512 LS","city":"Utrecht","kind":"house","address":"Nieuwegracht 34","price":"2295000","build_year":"1906","area":"470"}
+{"postal_code":"3551 GP","city":"Utrecht","kind":"house","address":"Korenbloemstraat 62","price":"269500","build_year":"1915","area":"70"}
+{"postal_code":"3552 GM","city":"Utrecht","kind":"appartement","address":"Morelstraat 67","price":"189500","build_year":"1934","area":"53"}
+{"postal_code":"3522 KD","city":"Utrecht","kind":"appartement","address":"Giessenplein 42","price":"249500","build_year":"1990","area":"74","service":"95"}
+{"postal_code":"3572 RE","city":"Utrecht","kind":"appartement","address":"Leistraat 22 1","price":"550000","build_year":"1860","area":"118"}
+{"postal_code":"3531 WR","city":"Utrecht","kind":"appartement","address":"Niasstraat 29","price":"300000","build_year":"2002","area":"83","service":"130"}
+{"postal_code":"3521 XK","city":"Utrecht","kind":"appartement","address":"Coornhertstraat 76","price":"199500","build_year":"1910","area":"60"}
+{"postal_code":"3554 GH","city":"Utrecht","kind":"appartement","address":"Prinses Margrietstraat 90","price":"175000","build_year":"1946","area":"48","service":"69"}
+{"postal_code":"3524 BH","city":"Utrecht","kind":"appartement","address":"Fivelingo 61","price":"200000","build_year":"1983","area":"79","service":"120"}
+{"postal_code":"3582 VA","city":"Utrecht","kind":"appartement","address":"Ina Boudier-Bakkerlaan 14 J","price":"165000","build_year":"2008","area":"30","service":"65"}
+{"postal_code":"3582 VA","city":"Utrecht","kind":"appartement","address":"Ina Boudier-Bakkerlaan 26 n","price":"165000","build_year":"2007","area":"30"}
+{"postal_code":"3562 XS","city":"Utrecht","kind":"appartement","address":"Einsteindreef 55 A","price":"249000","build_year":"1999","area":"80","service":"126"}
+{"postal_code":"3562 XS","city":"Utrecht","kind":"appartement","address":"Einsteindreef 49 B","price":"279000","build_year":"1999","area":"88","service":"127"}
+{"postal_code":"3581 SB","city":"Utrecht","kind":"appartement","address":"Adriaanstraat 33 bis","price":"450000","build_year":"1910","area":"98"}
+{"postal_code":"3512 KW","city":"Utrecht","kind":"appartement","address":"Jeruzalemstraat 3","price":"975000","build_year":"1906","area":"181"}
+{"postal_code":"3524 ZS","city":"Utrecht","kind":"house","address":"Walcheren 135","price":"269000","build_year":"1983","area":"86"}
+{"postal_code":"3571 PM","city":"Utrecht","kind":"house","address":"Kernkampplantsoen 95","price":"325000","build_year":"1968","area":"107"}
+{"postal_code":"3581 BR","city":"Utrecht","kind":"house","address":"Maliesingel 57","price":"1765000","build_year":"1875","area":"331"}
+{"postal_code":"3514 HJ","city":"Utrecht","kind":"house","address":"Pieter Nieuwlandstraat 30","price":"475000","build_year":"1927","area":"114"}
+{"postal_code":"3527 WD","city":"Utrecht","kind":"house","address":"Bertha von Suttnerlaan 24","price":"315000","build_year":"1987","area":"98"}
+{"postal_code":"3512 PJ","city":"Utrecht","kind":"house","address":"Lange Nieuwstraat 40 B","price":"1190000","build_year":"1937","area":"198"}
+{"postal_code":"3564 KV","city":"Utrecht","kind":"house","address":"Winnipegdreef 20","price":"299500","build_year":"1987","area":"123"}
+{"postal_code":"3511 AT","city":"Utrecht","kind":"house","address":"Oudegracht 68","price":"795000","build_year":"1650","area":"195"}
+{"postal_code":"3527 CS","city":"Utrecht","kind":"appartement","address":"Van Kleffenslaan 147","price":"169500","build_year":"1986","area":"66"}
+{"postal_code":"3512 TN","city":"Utrecht","kind":"appartement","address":"Predikherenstraat 6 A","price":"500000","build_year":"1906","area":"146","service":"60"}
+{"postal_code":"3551 CD","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 243 c","price":"125000","build_year":"1977","area":"31"}
+{"postal_code":"3583 RN","city":"Utrecht","kind":"appartement","address":"Vossegatselaan 19","price":"375000","build_year":"1914","area":"81","service":"50"}
+{"postal_code":"3514 AN","city":"Utrecht","kind":"house","address":"Bemuurde Weerd O.Z. 8 en 8BIS","price":"985000","build_year":"1906","area":"231"}
+{"postal_code":"3581 TT","city":"Utrecht","kind":"house","address":"Doornstraat 24","price":"400000","build_year":"1884","area":"81"}
+{"postal_code":"3542 DB","city":"Utrecht","kind":"house","address":"Kantonnaleweg 6","price":"319000","build_year":"1935","area":"115"}
+{"postal_code":"3562 XT","city":"Utrecht","kind":"appartement","address":"Einsteindreef 85","price":"299500","build_year":"1997","area":"98","service":"128"}
+{"postal_code":"3562 XS","city":"Utrecht","kind":"appartement","address":"Einsteindreef 47 B","price":"245000","build_year":"1999","area":"71","service":"95"}
+{"postal_code":"3572 RP","city":"Utrecht","kind":"appartement","address":"Goedestraat 103 t","price":"109000","build_year":"2009","area":"33"}
+{"postal_code":"3572 TV","city":"Utrecht","kind":"house","address":"Grasstraat 11","price":"450000","build_year":"1910","area":"100"}
+{"postal_code":"3572 SC","city":"Utrecht","kind":"house","address":"Bekkerstraat 77","price":"300000","build_year":"1906","area":"62"}
+{"postal_code":"3525 GA","city":"Utrecht","kind":"appartement","address":"Bazuinhof 1","price":"185000","build_year":"1960","area":"45","service":"93"}
+{"postal_code":"3553 AC","city":"Utrecht","kind":"appartement","address":"Burgemeester van Tuyllkade 63 bis","price":"250000","build_year":"1945","area":"82","service":"68"}
+{"postal_code":"3521 CG","city":"Utrecht","kind":"appartement","address":"Croeselaan 168 a","price":"175000","build_year":"1930","area":"40","service":"24"}
+{"postal_code":"3561 EA","city":"Utrecht","kind":"appartement","address":"Fortunadreef 49","price":"275000","build_year":"2008","area":"105","service":"132"}
+{"postal_code":"3512 BG","city":"Utrecht","kind":"appartement","address":"Jansveld 2B en 2C","price":"1095000","build_year":"1890","area":"225","service":"364"}
+{"postal_code":"3533 VP","city":"Utrecht","kind":"house","address":"Goethelaan 39","price":"525000","build_year":"1930","area":"113"}
+{"postal_code":"3571 BC","city":"Utrecht","kind":"house","address":"Van Lynden van Sandenburglaan 18","price":"545000","build_year":"1931","area":"128"}
+{"postal_code":"3515 XG","city":"Utrecht","kind":"house","address":"Jacob van der Borchstraat 60","price":"475000","build_year":"1935","area":"110"}
+{"postal_code":"3531 PZ","city":"Utrecht","kind":"appartement","address":"Balistraat 76","price":"70000","build_year":"1915","area":"14","service":"105"}
+{"postal_code":"3515 BR","city":"Utrecht","kind":"house","address":"Gijsbrecht van Walenborchstraat 15","price":"450000","build_year":"1935","area":"109"}
+{"postal_code":"3533 CP","city":"Utrecht","kind":"house","address":"Petrarcalaan 25","price":"500000","build_year":"1951","area":"120"}
+{"postal_code":"3572 TB","city":"Utrecht","kind":"house","address":"Palmstraat 29","price":"360000","build_year":"1900","area":"75"}
+{"postal_code":"3531 HK","city":"Utrecht","kind":"house","address":"Bankaplein 9","price":"430000","build_year":"1904","area":"110"}
+{"postal_code":"3531 KH","city":"Utrecht","kind":"house","address":"Surinamestraat 31","price":"375000","build_year":"1906","area":"103"}
+{"postal_code":"3522 EN","city":"Utrecht","kind":"house","address":"Berkelstraat 163","price":"350000","build_year":"1936","area":"90"}
+{"postal_code":"3572 KS","city":"Utrecht","kind":"appartement","address":"Alexander Numankade 57 Bis","price":"500000","build_year":"1890","area":"132"}
+{"postal_code":"3583 RE","city":"Utrecht","kind":"appartement","address":"Stadionlaan 16","price":"349000","build_year":"1951","area":"107","service":"186"}
+{"postal_code":"3583 GE","city":"Utrecht","kind":"appartement","address":"Koningslaan 23 B","price":"475000","build_year":"1906","area":"78","service":"100"}
+{"postal_code":"3513 BN","city":"Utrecht","kind":"appartement","address":"Singelstraat 4 4bis 7","price":"135000","build_year":"1915","area":"22","service":"118"}
+{"postal_code":"3512 NB","city":"Utrecht","kind":"house","address":"Zuilenstraat 15 C","price":"425000","build_year":"2006","area":"80"}
+{"postal_code":"3514 BZ","city":"Utrecht","kind":"appartement","address":"Hopakker 130","price":"379000","build_year":"2005","area":"80","service":"100"}
+{"postal_code":"3532 CA","city":"Utrecht","kind":"appartement","address":"Thomas à Kempisweg 35 II","price":"129500","build_year":"1938","area":"26","service":"138"}
+{"postal_code":"3544 MN","city":"Utrecht","kind":"house","address":"Parkzichtlaan 204","price":"425000","build_year":"2008","area":"155"}
+{"postal_code":"3515 CW","city":"Utrecht","kind":"house","address":"Talmalaan 27","price":"469000","build_year":"2011","area":"123"}
+{"postal_code":"3584 AD","city":"Utrecht","kind":"house","address":"Weg naar Rhijnauwen 23","price":"1150000","build_year":"1926","area":"270"}
+{"postal_code":"3512 HV","city":"Utrecht","kind":"house","address":"Keistraat 7","price":"1295000","build_year":"1664","area":"307"}
+{"postal_code":"3512 NC","city":"Utrecht","kind":"appartement","address":"Zuilenstraat 2 E","price":"419000","build_year":"1910","area":"80","service":"151"}
+{"postal_code":"3562 XA","city":"Utrecht","kind":"appartement","address":"Androsdreef 20","price":"169500","build_year":"1966","area":"94","service":"157"}
+{"postal_code":"3571 LV","city":"Utrecht","kind":"house","address":"Kouwerplantsoen 38","price":"399000","build_year":"1960","area":"134"}
+{"postal_code":"3543 DE","city":"Utrecht","kind":"house","address":"Burt Bacharachstraat 20","price":"425000","build_year":"2007","area":"121"}
+{"postal_code":"3581 LH","city":"Utrecht","kind":"appartement","address":"Oudwijkerdwarsstraat 90 Bis","price":"350000","build_year":"1920","area":"89"}
+{"postal_code":"3524 LZ","city":"Utrecht","kind":"appartement","address":"Wageningseberg 424","price":"299500","build_year":"1992","area":"86","service":"178"}
+{"postal_code":"3543 DD","city":"Utrecht","kind":"house","address":"Burt Bacharachstraat 143","price":"388000","build_year":"2006","area":"128"}
+{"postal_code":"3512 JS","city":"Utrecht","kind":"house","address":"Pieterskerkhof 18","price":"850000","build_year":"1898","area":"148"}
+{"postal_code":"3553 JW","city":"Utrecht","kind":"house","address":"Werner Helmichstraat 123","price":"285000","build_year":"1931","area":"93"}
+{"postal_code":"3571 KC","city":"Utrecht","kind":"house","address":"Prof. Jordanlaan 94","price":"795000","build_year":"1997","area":"174"}
+{"postal_code":"3573 PD","city":"Utrecht","kind":"appartement","address":"Kemal Atatürkstraat 125","price":"297500","build_year":"1991","area":"118","service":"197"}
+{"postal_code":"3514 CJ","city":"Utrecht","kind":"appartement","address":"Adelaarstraat 92 A","price":"265000","build_year":"1903","area":"50","service":"25"}
+{"postal_code":"3512 EB","city":"Utrecht","kind":"appartement","address":"Keizerstraat 16 b","price":"495000","build_year":"1992","area":"100","service":"189"}
+{"postal_code":"3572 XH","city":"Utrecht","kind":"appartement","address":"Admiraal van Gentstraat 49","price":"500000","build_year":"1920","area":"131","service":"50"}
+{"postal_code":"3526 JR","city":"Utrecht","kind":"appartement","address":"Livingstonelaan 1074","price":"179000","build_year":"1969","area":"102","service":"189"}
+{"postal_code":"3554 XG","city":"Utrecht","kind":"house","address":"Adriaan van Zwietenstraat 28","price":"245000","build_year":"1938","area":"87"}
+{"postal_code":"3511 ZJ","city":"Utrecht","kind":"house","address":"Nauwe Watersteeg 1","price":"1350000","build_year":"1900","area":"246"}
+{"postal_code":"3514 EL","city":"Utrecht","kind":"appartement","address":"Bellamystraat 8","price":"489000","build_year":"1904","area":"116"}
+{"postal_code":"3514 VL","city":"Utrecht","kind":"appartement","address":"Johannes de Bekastraat 51 bis","price":"359000","build_year":"1910","area":"81"}
+{"postal_code":"3571 PR","city":"Utrecht","kind":"appartement","address":"Fruinplantsoen 37","price":"212500","build_year":"1965","area":"77","service":"285"}
+{"postal_code":"3515 XJ","city":"Utrecht","kind":"appartement","address":"Maria van Reedestraat 17","price":"269000","build_year":"1930","area":"53"}
+{"postal_code":"3511 AR","city":"Utrecht","kind":"appartement","address":"Oudegracht 46 B","price":"650000","build_year":"1400","area":"108"}
+{"postal_code":"3544 CZ","city":"Utrecht","kind":"appartement","address":"Melissekade 352","price":"259000","build_year":"2001","area":"92"}
+{"postal_code":"3526 SH","city":"Utrecht","kind":"appartement","address":"Aziëlaan 232","price":"179500","build_year":"1969","area":"85","service":"149"}
+{"postal_code":"3584 AB","city":"Utrecht","kind":"appartement","address":"Herculeslaan 58","price":"429000","build_year":"2006","area":"126","service":"261"}
+{"postal_code":"3554 EK","city":"Utrecht","kind":"house","address":"Paardensprongstraat 18","price":"310000","build_year":"1999","area":"110"}
+{"postal_code":"3582 CR","city":"Utrecht","kind":"appartement","address":"Krommerijn 10","price":"369000","build_year":"1987","area":"64","service":"130"}
+{"postal_code":"3521 BW","city":"Utrecht","kind":"appartement","address":"Croeselaan 361","price":"315000","build_year":"1939","area":"74","service":"45"}
+{"postal_code":"3584 GA","city":"Utrecht","kind":"house","address":"Louis Saalbornlaan 75","price":"699000","build_year":"1981","area":"179"}
+{"postal_code":"3511 VD","city":"Utrecht","kind":"house","address":"Andreasstraat 41","price":"300000","build_year":"1450","area":"53"}
+{"postal_code":"3531 RE","city":"Utrecht","kind":"house","address":"Lombokstraat 42","price":"350000","build_year":"1910","area":"90"}
+{"postal_code":"3555 BN","city":"Utrecht","kind":"house","address":"Adriaan Mulderstraat 22","price":"325000","build_year":"1930","area":"96"}
+{"postal_code":"3514 GH","city":"Utrecht","kind":"appartement","address":"Willem van Noortstraat 92","price":"419000","build_year":"1900","area":"112","service":"100"}
+{"postal_code":"3571 HM","city":"Utrecht","kind":"appartement","address":"Rauwenhofflaan 150","price":"159000","build_year":"1960","area":"48","service":"183"}
+{"postal_code":"3573 BB","city":"Utrecht","kind":"house","address":"Steve Bikostraat 67","price":"325000","build_year":"1992","area":"115"}
+{"postal_code":"3546 PT","city":"Utrecht","kind":"house","address":"Nedereindseweg 534","price":"975000","build_year":"2006","area":"297"}
+{"postal_code":"3522 XB","city":"Utrecht","kind":"appartement","address":"Beerzestraat 20 bis","price":"249500","build_year":"1930","area":"91"}
+{"postal_code":"3524 RC","city":"Utrecht","kind":"appartement","address":"Henegouwen 116","price":"239500","build_year":"1983","area":"101","service":"95"}
+{"postal_code":"3511 TA","city":"Utrecht","kind":"appartement","address":"Vaartsestraat 9","price":"350000","build_year":"1994","area":"99","service":"123"}
+{"postal_code":"3514 HL","city":"Utrecht","kind":"house","address":"Pieter Nieuwlandstraat 84","price":"420000","build_year":"1928","area":"132"}
+{"postal_code":"3572 VV","city":"Utrecht","kind":"house","address":"Bollenhofsestraat 172","price":"425000","build_year":"1896","area":"90"}
+{"postal_code":"3555 SN","city":"Utrecht","kind":"house","address":"Jan van Zutphenlaan 41","price":"375000","build_year":"2006","area":"161"}
+{"postal_code":"3553 GS","city":"Utrecht","kind":"house","address":"Stephensonstraat 40","price":"359000","build_year":"1926","area":"94"}
+{"postal_code":"3525 EP","city":"Utrecht","kind":"house","address":"Kastelenplantsoen 9","price":"239000","build_year":"1960","area":"77"}
+{"postal_code":"3524 KW","city":"Utrecht","kind":"house","address":"Lombardije 6","price":"269000","build_year":"1982","area":"81"}
+{"postal_code":"3544 DC","city":"Utrecht","kind":"house","address":"Monarchvlinderlaan 152","price":"329000","build_year":"2002","area":"133"}
+{"postal_code":"3584 GR","city":"Utrecht","kind":"house","address":"Magda Janssenslaan 16","price":"725000","build_year":"1979","area":"154"}
+{"postal_code":"3555 BT","city":"Utrecht","kind":"house","address":"Wethouder D.M. Plompstraat 6","price":"339500","build_year":"1930","area":"93"}
+{"postal_code":"3513 BH","city":"Utrecht","kind":"house","address":"Bemuurde Weerd W.Z. 1","price":"700000","build_year":"1920","area":"256"}
+{"postal_code":"3583 RL","city":"Utrecht","kind":"house","address":"Johannes Vermeerstraat 5","price":"475000","build_year":"1923","area":"120"}
+{"postal_code":"3525 BE","city":"Utrecht","kind":"house","address":"Verlengde Hoogravenseweg 165","price":"350000","build_year":"1930","area":"95"}
+{"postal_code":"3525 VG","city":"Utrecht","kind":"house","address":"Julianaweg 30","price":"375000","build_year":"1936","area":"110"}
+{"postal_code":"3525 VJ","city":"Utrecht","kind":"house","address":"Julianaweg 130","price":"395000","build_year":"1935","area":"108"}
+{"postal_code":"3555 VP","city":"Utrecht","kind":"house","address":"C. van Maasdijkstraat 72","price":"279000","build_year":"1965","area":"109"}
+{"postal_code":"3514 GC","city":"Utrecht","kind":"appartement","address":"Willem van Noortstraat 73 D","price":"175000","build_year":"1910","area":"35","service":"132"}
+{"postal_code":"3511 EH","city":"Utrecht","kind":"appartement","address":"Stationsstraat 106","price":"342500","build_year":"1976","area":"95","service":"312"}
+{"postal_code":"3523 KE","city":"Utrecht","kind":"appartement","address":"Heemstedelaan 39","price":"215000","build_year":"2008","area":"62","service":"155"}
+{"postal_code":"3554 AT","city":"Utrecht","kind":"appartement","address":"Van Hoornekade 149 A","price":"165000","build_year":"1930","area":"39","service":"40"}
+{"postal_code":"3527 VR","city":"Utrecht","kind":"appartement","address":"Van Eysingalaan 230","price":"192500","build_year":"1962","area":"70","service":"106"}
+{"postal_code":"3515 ED","city":"Utrecht","kind":"appartement","address":"Everard Foeckstraat 1 A","price":"219500","build_year":"1931","area":"52","service":"30"}
+{"postal_code":"3572 HG","city":"Utrecht","kind":"appartement","address":"Poortstraat 97","price":"300000","build_year":"1893","area":"94"}
+{"postal_code":"3533 SK","city":"Utrecht","kind":"house","address":"Averkamplaan 21","price":"396000","build_year":"1954","area":"96"}
+{"postal_code":"3531 VM","city":"Utrecht","kind":"house","address":"Makassarstraat 97","price":"325000","build_year":"1931","area":"105"}
+{"postal_code":"3581 WV","city":"Utrecht","kind":"house","address":"Bolstraat 101","price":"349500","build_year":"1910","area":"70"}
+{"postal_code":"3514 VG","city":"Utrecht","kind":"house","address":"Kievitdwarsstraat 40","price":"525000","build_year":"1910","area":"129"}
+{"postal_code":"3552 EC","city":"Utrecht","kind":"house","address":"Ondiep 99","price":"450000","build_year":"2010","area":"144"}
+{"postal_code":"3544 DJ","city":"Utrecht","kind":"house","address":"Pijlstaartvlinder 8","price":"415000","build_year":"2001","area":"134"}
+{"postal_code":"3544 AR","city":"Utrecht","kind":"house","address":"Tweede Oosterparklaan 191","price":"335000","build_year":"2000","area":"131"}
+{"postal_code":"3555 WJ","city":"Utrecht","kind":"house","address":"Schaperstraat 17","price":"199500","build_year":"2008","area":"62"}
+{"postal_code":"3532 BE","city":"Utrecht","kind":"house","address":"Cremerstraat 36","price":"225000","build_year":"1904","area":"80"}
+{"postal_code":"3566 MJ","city":"Utrecht","kind":"house","address":"Gageldijk 205 A","price":"795000","build_year":"1959","area":"151"}
+{"postal_code":"3582 BC","city":"Utrecht","kind":"house","address":"Abstederdijk 99","price":"350000","build_year":"1900","area":"89"}
+{"postal_code":"3521 TK","city":"Utrecht","kind":"house","address":"Van der Goesstraat 51","price":"425000","build_year":"1935","area":"103"}
+{"postal_code":"3571 VW","city":"Utrecht","kind":"house","address":"Burgemeester van der Voort van Zijplaan 38","price":"575000","build_year":"1931","area":"118"}
+{"postal_code":"3564 HB","city":"Utrecht","kind":"house","address":"Koeweitdreef 143","price":"265000","build_year":"1975","area":"133"}
+{"postal_code":"3522 BP","city":"Utrecht","kind":"house","address":"Rijnlaan 52","price":"495000","build_year":"1928","area":"124"}
+{"postal_code":"3551 EK","city":"Utrecht","kind":"house","address":"2e Daalsedijk 62","price":"395000","build_year":"1906","area":"113"}
+{"postal_code":"3581 WJ","city":"Utrecht","kind":"house","address":"Wagendwarsstraat 35","price":"289500","build_year":"1906","area":"67"}
+{"postal_code":"3572 RW","city":"Utrecht","kind":"house","address":"Goedestraat 88","price":"385000","build_year":"1860","area":"75"}
+{"postal_code":"3512 PA","city":"Utrecht","kind":"house","address":"Lange Nieuwstraat 9 A","price":"1075000","build_year":"1600","area":"213"}
+{"postal_code":"3514 XS","city":"Utrecht","kind":"house","address":"Van Swindenstraat 20","price":"450000","build_year":"1930","area":"113"}
+{"postal_code":"3584 GG","city":"Utrecht","kind":"house","address":"Louis Bouwmeesterlaan 157","price":"679000","build_year":"1979","area":"166"}
+{"postal_code":"3533 XG","city":"Utrecht","kind":"house","address":"Mendelssohnstraat 39","price":"450000","build_year":"1931","area":"108"}
+{"postal_code":"3553 SH","city":"Utrecht","kind":"house","address":"Adelboldstraat 35","price":"230000","build_year":"1931","area":"93"}
+{"postal_code":"3526 VZ","city":"Utrecht","kind":"appartement","address":"Amerikalaan 677","price":"189500","build_year":"2012","area":"62","service":"120"}
+{"postal_code":"3526 HT","city":"Utrecht","kind":"appartement","address":"Livingstonelaan 236","price":"160000","build_year":"1965","area":"65","service":"135"}
+{"postal_code":"3523 HJ","city":"Utrecht","kind":"appartement","address":"Ruygenhoeklaan 15 II","price":"225000","build_year":"1955","area":"68","service":"130"}
+{"postal_code":"3553 VS","city":"Utrecht","kind":"appartement","address":"Johannes Uitenbogaertstraat 62 bis","price":"175000","build_year":"1906","area":"52"}
+{"postal_code":"3581 LR","city":"Utrecht","kind":"appartement","address":"Lindestraat 37","price":"240000","build_year":"1930","area":"56"}
+{"postal_code":"3552 HB","city":"Utrecht","kind":"appartement","address":"Marnixlaan 53","price":"169500","build_year":"1919","area":"42","service":"15"}
+{"postal_code":"3552 HK","city":"Utrecht","kind":"appartement","address":"Marnixlaan 232","price":"285000","build_year":"2011","area":"120","service":"146"}
+{"postal_code":"3527 JV","city":"Utrecht","kind":"appartement","address":"Van Vollenhovenlaan 148","price":"175000","build_year":"1960","area":"70","service":"123"}
+{"postal_code":"3511 AE","city":"Utrecht","kind":"appartement","address":"Zakkendragershof 31","price":"350000","build_year":"1989","area":"91"}
+{"postal_code":"3513 AN","city":"Utrecht","kind":"appartement","address":"Beverstraat 17 bis","price":"285000","build_year":"1904","area":"85"}
+{"postal_code":"3544 EC","city":"Utrecht","kind":"appartement","address":"Verlengde Houtrakgracht 357","price":"269500","build_year":"2004","area":"100","service":"105"}
+{"postal_code":"3562 AW","city":"Utrecht","kind":"appartement","address":"Jaap Edendreef 86","price":"150000","build_year":"1967","area":"85","service":"137"}
+{"postal_code":"3522 HA","city":"Utrecht","kind":"appartement","address":"Jutfaseweg 3 B","price":"650000","build_year":"1909","area":"144","service":"248"}
+{"postal_code":"3522 RG","city":"Utrecht","kind":"house","address":"Runstraat 49","price":"250000","build_year":"1935","area":"73"}
+{"postal_code":"3554 VG","city":"Utrecht","kind":"house","address":"Jacob Cabeliaustraat 1","price":"225000","build_year":"1935","area":"104"}
+{"postal_code":"3553 VP","city":"Utrecht","kind":"house","address":"Johannes Uitenbogaertstraat 34","price":"285000","build_year":"1996","area":"96"}
+{"postal_code":"3515 XV","city":"Utrecht","kind":"house","address":"Adriaen Beyerkade 26","price":"375000","build_year":"1930","area":"85"}
+{"postal_code":"3526 SG","city":"Utrecht","kind":"house","address":"Aziëlaan 140","price":"329500","build_year":"1961","area":"151"}
+{"postal_code":"3583 VW","city":"Utrecht","kind":"house","address":"Graaf Adolfstraat 21","price":"795000","build_year":"1902","area":"157"}
+{"postal_code":"3542 DB","city":"Utrecht","kind":"house","address":"Kantonnaleweg 5","price":"309000","build_year":"1935","area":"115"}
+{"postal_code":"3512 LC","city":"Utrecht","kind":"house","address":"Nieuwegracht 15","price":"1850000","build_year":"1619","area":"399"}
+{"postal_code":"3555 EM","city":"Utrecht","kind":"appartement","address":"Burgemeester Norbruislaan 296","price":"155000","build_year":"1953","area":"63"}
+{"postal_code":"3572 AN","city":"Utrecht","kind":"appartement","address":"Biltstraat 113 B Bis A","price":"425000","build_year":"1938","area":"132"}
+{"postal_code":"3533 JP","city":"Utrecht","kind":"appartement","address":"Ravellaan 224","price":"200000","build_year":"1991","area":"94","service":"208"}
+{"postal_code":"3524 LR","city":"Utrecht","kind":"appartement","address":"Wageningseberg 80","price":"269500","build_year":"1991","area":"98"}
+{"postal_code":"3553 TG","city":"Utrecht","kind":"appartement","address":"Johannes van Andelstraat 21 Bis","price":"185000","build_year":"1931","area":"51"}
+{"postal_code":"3555 HL","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 879 B","price":"164000","build_year":"2005","area":"70","service":"125"}
+{"postal_code":"3561 GC","city":"Utrecht","kind":"appartement","address":"Moezeldreef 269","price":"175000","build_year":"1967","area":"70"}
+{"postal_code":"3531 JM","city":"Utrecht","kind":"appartement","address":"Laan van Nieuw-Guinea 80 A","price":"239500","build_year":"2011","area":"62"}
+{"postal_code":"3572 TP","city":"Utrecht","kind":"appartement","address":"Graanstraat 21 bis","price":"375000","build_year":"1898","area":"97"}
+{"postal_code":"3532 EL","city":"Utrecht","kind":"house","address":"Jaffastraat 19","price":"425000","build_year":"1935","area":"105"}
+{"postal_code":"3584 GL","city":"Utrecht","kind":"house","address":"Esther de Boer-van Rijklaan 7","price":"650000","build_year":"1979","area":"168"}
+{"postal_code":"3514 AA","city":"Utrecht","kind":"appartement","address":"Weerdsingel O.Z. 3","price":"325000","build_year":"1928","area":"63","service":"30"}
+{"postal_code":"3571 PG","city":"Utrecht","kind":"appartement","address":"Hijmans van den Berghlaan 202","price":"225000","build_year":"1960","area":"94"}
+{"postal_code":"3552 XM","city":"Utrecht","kind":"house","address":"Hoogstraat 8 a","price":"185000","build_year":"1910","area":"40"}
+{"postal_code":"3511 AV","city":"Utrecht","kind":"house","address":"Oudegracht 90","price":"600000","build_year":"1715","area":"115"}
+{"postal_code":"3553 BS","city":"Utrecht","kind":"appartement","address":"Edisonstraat 26","price":"175000","build_year":"1926","area":"47"}
+{"postal_code":"3515 AD","city":"Utrecht","kind":"appartement","address":"Zaagmolenkade 37 bis","price":"325000","build_year":"1910","area":"84"}
+{"postal_code":"3571 KS","city":"Utrecht","kind":"house","address":"Prof. Zonnebloemlaan 31","price":"515000","build_year":"1999","area":"148"}
+{"postal_code":"3583 BP","city":"Utrecht","kind":"house","address":"Frans Halsstraat 18","price":"1195000","build_year":"1911","area":"221"}
+{"postal_code":"3531 GE","city":"Utrecht","kind":"house","address":"Daendelsstraat 42","price":"350000","build_year":"1906","area":"88"}
+{"postal_code":"3555 AT","city":"Utrecht","kind":"house","address":"Van der Pekstraat 99","price":"215000","build_year":"1931","area":"65"}
+{"postal_code":"3534 RM","city":"Utrecht","kind":"house","address":"Schoenerstraat 16","price":"325000","build_year":"1940","area":"95"}
+{"postal_code":"3572 TE","city":"Utrecht","kind":"house","address":"Dadelstraat 17","price":"375000","build_year":"1905","area":"76"}
+{"postal_code":"3531 KD","city":"Utrecht","kind":"appartement","address":"Celebesstraat 40","price":"250000","build_year":"1906","area":"66","service":"75"}
+{"postal_code":"3512 NH","city":"Utrecht","kind":"appartement","address":"Magdalenastraat 3 B","price":"650000","build_year":"2010","area":"169","service":"200"}
+{"postal_code":"3564 BX","city":"Utrecht","kind":"appartement","address":"Pretoriadreef 66","price":"215000","build_year":"2011","area":"83","service":"126"}
+{"postal_code":"3522 CH","city":"Utrecht","kind":"appartement","address":"Gouwestraat 33","price":"235000","build_year":"1931","area":"58","service":"120"}
+{"postal_code":"3552 HK","city":"Utrecht","kind":"appartement","address":"Marnixlaan 270 A","price":"217500","build_year":"2012","area":"64","service":"87"}
+{"postal_code":"3533 TN","city":"Utrecht","kind":"appartement","address":"Johan Wagenaarkade 88 III","price":"212500","build_year":"1955","area":"62","service":"81"}
+{"postal_code":"3514 EV","city":"Utrecht","kind":"appartement","address":"Kwartelstraat 2 a","price":"369000","build_year":"1910","area":"95","service":"75"}
+{"postal_code":"3511 HG","city":"Utrecht","kind":"appartement","address":"Nicolaas Beetsstraat 140","price":"425000","build_year":"1913","area":"102","service":"153"}
+{"postal_code":"3544 MP","city":"Utrecht","kind":"house","address":"Stuytstraat 6","price":"319500","build_year":"2008","area":"116"}
+{"postal_code":"3544 MN","city":"Utrecht","kind":"house","address":"Parkzichtlaan 356","price":"397500","build_year":"2006","area":"146"}
+{"postal_code":"3553 TB","city":"Utrecht","kind":"house","address":"Jodocus van Lodensteinstraat 49","price":"279000","build_year":"1935","area":"93"}
+{"postal_code":"3544 MV","city":"Utrecht","kind":"house","address":"Van den Broekstraat 47","price":"425000","build_year":"2008","area":"159"}
+{"postal_code":"3543 JK","city":"Utrecht","kind":"house","address":"Arthur Sullivanhof 26","price":"395000","build_year":"2004","area":"133"}
+{"postal_code":"3581 RN","city":"Utrecht","kind":"house","address":"Tulpstraat 50","price":"325000","build_year":"1920","area":"75"}
+{"postal_code":"3543 GX","city":"Utrecht","kind":"house","address":"Benny Goodmanstraat 16","price":"375000","build_year":"2016","area":"127"}
+{"postal_code":"3544 AN","city":"Utrecht","kind":"house","address":"Eerste Oosterparklaan 120","price":"325000","build_year":"2000","area":"125"}
+{"postal_code":"3522 AJ","city":"Utrecht","kind":"house","address":"Croesestraat 104","price":"385000","build_year":"1912","area":"85"}
+{"postal_code":"3544 CK","city":"Utrecht","kind":"house","address":"Dillestraat 26","price":"219500","build_year":"2000","area":"89"}
+{"postal_code":"3522 HV","city":"Utrecht","kind":"house","address":"Mijdrechtstraat 59","price":"300000","build_year":"1973","area":"133"}
+{"postal_code":"3572 VX","city":"Utrecht","kind":"house","address":"Roggestraat 27","price":"490000","build_year":"1895","area":"101"}
+{"postal_code":"3543 BZ","city":"Utrecht","kind":"house","address":"Emile Hullebroeckstraat 11","price":"350000","build_year":"2011","area":"113"}
+{"postal_code":"3544 MV","city":"Utrecht","kind":"house","address":"Van den Broekstraat 12","price":"309000","build_year":"2007","area":"115"}
+{"postal_code":"3543 JB","city":"Utrecht","kind":"house","address":"Franz Lehársingel 20","price":"375000","build_year":"2003","area":"157"}
+{"postal_code":"3523 TR","city":"Utrecht","kind":"house","address":"W.A. Vultostraat 9","price":"350000","build_year":"1931","area":"97"}
+{"postal_code":"3534 BC","city":"Utrecht","kind":"house","address":"Cartesiusweg 105","price":"275000","build_year":"1930","area":"109"}
+{"postal_code":"3572 EJ","city":"Utrecht","kind":"house","address":"Gildstraat 15","price":"525000","build_year":"1910","area":"115"}
+{"postal_code":"3543 GX","city":"Utrecht","kind":"house","address":"Benny Goodmanstraat 15","price":"350000","build_year":"2016","area":"127"}
+{"postal_code":"3531 SL","city":"Utrecht","kind":"house","address":"1e Delistraat 13","price":"282500","build_year":"1904","area":"82"}
+{"postal_code":"3514 EG","city":"Utrecht","kind":"house","address":"Nieuwe Koekoekstraat 52","price":"427500","build_year":"1904","area":"91"}
+{"postal_code":"3573 ZD","city":"Utrecht","kind":"house","address":"Augusto Sandinostraat 66","price":"350000","build_year":"1993","area":"105"}
+{"postal_code":"3526 KL","city":"Utrecht","kind":"house","address":"Kanaalweg 21","price":"625000","build_year":"1926","area":"163"}
+{"postal_code":"3582 GN","city":"Utrecht","kind":"house","address":"Kovelaarstraat 9","price":"275000","build_year":"1900","area":"74"}
+{"postal_code":"3583 BK","city":"Utrecht","kind":"house","address":"Frans Halsstraat 1","price":"850000","build_year":"1904","area":"169"}
+{"postal_code":"3582 GP","city":"Utrecht","kind":"house","address":"Kovelaarstraat 20","price":"300000","build_year":"1906","area":"71"}
+{"postal_code":"3523 CK","city":"Utrecht","kind":"house","address":"Heuveloord 27","price":"1200000","build_year":"1873","area":"308"}
+{"postal_code":"3583 RG","city":"Utrecht","kind":"house","address":"Pieter de Hooghstraat 29","price":"350000","build_year":"1906","area":"75"}
+{"postal_code":"3511 AR","city":"Utrecht","kind":"house","address":"Oudegracht 40 G + H","price":"495000","build_year":"1906","area":"99"}
+{"postal_code":"3572 TC","city":"Utrecht","kind":"house","address":"Palmstraat 18","price":"495000","build_year":"1881","area":"116"}
+{"postal_code":"3511 RE","city":"Utrecht","kind":"house","address":"Dirck van Zuylenstraat 13","price":"285000","build_year":"1850","area":"65"}
+{"postal_code":"3572 EJ","city":"Utrecht","kind":"house","address":"Gildstraat 7","price":"475000","build_year":"1920","area":"125"}
+{"postal_code":"3527 VK","city":"Utrecht","kind":"appartement","address":"Van Eysingalaan 385","price":"219500","build_year":"2012","area":"76","service":"123"}
+{"postal_code":"3544 NX","city":"Utrecht","kind":"appartement","address":"Pablo Picassostraat 195","price":"300000","build_year":"2007","area":"93","service":"147"}
+{"postal_code":"3572 ZM","city":"Utrecht","kind":"house","address":"Oortlaan 24","price":"440000","build_year":"1969","area":"136"}
+{"postal_code":"3533 EK","city":"Utrecht","kind":"house","address":"Chopinstraat 15","price":"420000","build_year":"1931","area":"107"}
+{"postal_code":"3582 BZ","city":"Utrecht","kind":"house","address":"Piet Heinstraat 32","price":"375000","build_year":"1877","area":"82"}
+{"postal_code":"3553 VG","city":"Utrecht","kind":"house","address":"Hermannus Elconiusstraat 46","price":"259000","build_year":"1930","area":"82"}
+{"postal_code":"3555 XK","city":"Utrecht","kind":"house","address":"Queeckhovenplein 3 A","price":"375000","build_year":"2007","area":"129"}
+{"postal_code":"3511 HG","city":"Utrecht","kind":"appartement","address":"Nicolaas Beetsstraat 166","price":"269000","build_year":"1913","area":"61","service":"110"}
+{"postal_code":"3525 VG","city":"Utrecht","kind":"house","address":"Julianaweg 2","price":"442500","build_year":"1936","area":"140"}
+{"postal_code":"3543 HL","city":"Utrecht","kind":"house","address":"Léon Jesselhof 26","price":"360000","build_year":"2003","area":"119"}
+{"postal_code":"3573 BR","city":"Utrecht","kind":"house","address":"Pablo Nerudastraat 9","price":"325000","build_year":"1992","area":"97"}
+{"postal_code":"3532 CA","city":"Utrecht","kind":"house","address":"Thomas à Kempisweg 39","price":"349500","build_year":"1938","area":"103"}
+{"postal_code":"3526 EW","city":"Utrecht","kind":"house","address":"Cabrallaan 15","price":"239000","build_year":"1988","area":"99"}
+{"postal_code":"3553 HB","city":"Utrecht","kind":"house","address":"Sweder van Zuylenweg 37","price":"342500","build_year":"1936","area":"119"}
+{"postal_code":"3555 AC","city":"Utrecht","kind":"house","address":"Prins Bernhardlaan 61 A","price":"225000","build_year":"1945","area":"64"}
+{"postal_code":"3552 CK","city":"Utrecht","kind":"house","address":"Royaards van den Hamkade 59","price":"275000","build_year":"1928","area":"88"}
+{"postal_code":"3527 GT","city":"Utrecht","kind":"appartement","address":"Monnetlaan 94 A","price":"249500","build_year":"2017","area":"79","service":"94"}
+{"postal_code":"3512 EW","city":"Utrecht","kind":"house","address":"Nobeldwarsstraat 7 + 7A","price":"639500","build_year":"1906","area":"128"}
+{"postal_code":"3584 HK","city":"Utrecht","kind":"appartement","address":"Albert van Dalsumlaan 449","price":"250000","build_year":"1979","area":"76","service":"125"}
+{"postal_code":"3551 SJ","city":"Utrecht","kind":"house","address":"Fabriekstraat 38","price":"240000","build_year":"1889","area":"60"}
+{"postal_code":"3544 TE","city":"Utrecht","kind":"house","address":"Stobberakplantsoen 54","price":"565000","build_year":"2000","area":"130"}
+{"postal_code":"3572 VE","city":"Utrecht","kind":"house","address":"Klaverstraat 54","price":"649995","build_year":"1895","area":"180"}
+{"postal_code":"3553 GA","city":"Utrecht","kind":"house","address":"Bessemerlaan 41","price":"375000","build_year":"1925","area":"70"}
+{"postal_code":"3515 XM","city":"Utrecht","kind":"appartement","address":"Jan van den Doemstraat 1 B","price":"250000","build_year":"2009","area":"61","service":"138"}
+{"postal_code":"3541 DB","city":"Utrecht","kind":"appartement","address":"De Victoria bouwnummer 71","price":"341500","build_year":"2017","area":"91"}
+{"postal_code":"3562 JS","city":"Utrecht","kind":"appartement","address":"Patmosdreef 192","price":"185000","build_year":"1965","area":"90","service":"190"}
+{"postal_code":"3572 KM","city":"Utrecht","kind":"appartement","address":"Van Esveldstraat 163","price":"315000","build_year":"1991","area":"86","service":"149"}
+{"postal_code":"3571 NH","city":"Utrecht","kind":"appartement","address":"Obbinklaan 44","price":"180000","build_year":"1960","area":"44","service":"164"}
+{"postal_code":"3531 KR","city":"Utrecht","kind":"appartement","address":"Paramaribostraat 89","price":"200000","build_year":"1929","area":"55","service":"50"}
+{"postal_code":"3562 TN","city":"Utrecht","kind":"appartement","address":"Rhodosdreef 246","price":"180000","build_year":"1960","area":"81","service":"154"}
+{"postal_code":"3562 AC","city":"Utrecht","kind":"appartement","address":"Pahud de Mortangesdreef 82","price":"169500","build_year":"1966","area":"68","service":"143"}
+{"postal_code":"3526 HZ","city":"Utrecht","kind":"appartement","address":"Livingstonelaan 366","price":"142500","build_year":"1963","area":"56","service":"103"}
+{"postal_code":"3532 VE","city":"Utrecht","kind":"appartement","address":"Bilderdijkstraat 12 bis","price":"350000","build_year":"1920","area":"85","service":"50"}
+{"postal_code":"3524 BW","city":"Utrecht","kind":"appartement","address":"Hondsrug 249","price":"159000","build_year":"1983","area":"57","service":"108"}
+{"postal_code":"3527 VC","city":"Utrecht","kind":"appartement","address":"Van Eysingalaan 113","price":"212500","build_year":"1960","area":"67","service":"120"}
+{"postal_code":"3521 XW","city":"Utrecht","kind":"appartement","address":"Tesselschadestraat 38 B","price":"189500","build_year":"1906","area":"43","service":"68"}
+{"postal_code":"3527 VC","city":"Utrecht","kind":"appartement","address":"Van Eysingalaan 111","price":"189000","build_year":"1961","area":"70","service":"120"}
+{"postal_code":"3562 AH","city":"Utrecht","kind":"appartement","address":"Pahud de Mortangesdreef 246","price":"185000","build_year":"1967","area":"83","service":"234"}
+{"postal_code":"3532 EA","city":"Utrecht","kind":"appartement","address":"Queridostraat 5 Bis","price":"250000","build_year":"1931","area":"77"}
+{"postal_code":"3553 BS","city":"Utrecht","kind":"appartement","address":"Edisonstraat 18","price":"215000","build_year":"1930","area":"57"}
+{"postal_code":"3554 GL","city":"Utrecht","kind":"appartement","address":"Zwanenvechtlaan 10","price":"180000","build_year":"1961","area":"68","service":"125"}
+{"postal_code":"3541 CS","city":"Utrecht","kind":"appartement","address":"De Belvedere bouwnummer 66","price":"424000","build_year":"2017","area":"118"}
+{"postal_code":"3551 SX","city":"Utrecht","kind":"appartement","address":"Asterstraat 14","price":"95000","build_year":"1911","area":"31","service":"107"}
+{"postal_code":"3584 AB","city":"Utrecht","kind":"appartement","address":"Herculeslaan 146","price":"519500","build_year":"2008","area":"127","service":"232"}
+{"postal_code":"3531 WS","city":"Utrecht","kind":"appartement","address":"Adikade 44","price":"385000","build_year":"2008","area":"118","service":"70"}
+{"postal_code":"3531 GG","city":"Utrecht","kind":"house","address":"Van Diemenstraat 15","price":"400000","build_year":"1921","area":"102"}
+{"postal_code":"3523 VT","city":"Utrecht","kind":"house","address":"Constant Erzeijstraat 55","price":"350000","build_year":"1935","area":"101"}
+{"postal_code":"3551 SN","city":"Utrecht","kind":"house","address":"Goudsbloemstraat 20","price":"269500","build_year":"1920","area":"67"}
+{"postal_code":"3511 HL","city":"Utrecht","kind":"house","address":"Justus van Effenstraat 28","price":"625000","build_year":"1905","area":"163"}
+{"postal_code":"3561 JC","city":"Utrecht","kind":"house","address":"Rubicondreef 34","price":"285000","build_year":"1965","area":"116"}
+{"postal_code":"3571 SR","city":"Utrecht","kind":"house","address":"Mr. Sickeszlaan 4","price":"575000","build_year":"1930","area":"131"}
+{"postal_code":"3525 BJ","city":"Utrecht","kind":"house","address":"Verlengde Hoogravenseweg 86","price":"319000","build_year":"1935","area":"85"}
+{"postal_code":"3554 BG","city":"Utrecht","kind":"house","address":"Koppestokstraat 86","price":"219000","build_year":"1930","area":"61"}
+{"postal_code":"3571 GJ","city":"Utrecht","kind":"house","address":"Prof. Hugo de Vrieslaan 38","price":"595000","build_year":"1935","area":"122"}
+{"postal_code":"3543 DR","city":"Utrecht","kind":"house","address":"Jule Stynestraat 54","price":"469500","build_year":"2007","area":"153"}
+{"postal_code":"3581 XG","city":"Utrecht","kind":"house","address":"Beukstraat 10","price":"359000","build_year":"1920","area":"71"}
+{"postal_code":"3532 BS","city":"Utrecht","kind":"house","address":"Cremerstraat 380","price":"380000","build_year":"1950","area":"107"}
+{"postal_code":"3571 ZS","city":"Utrecht","kind":"house","address":"De Vooysplantsoen 46","price":"335000","build_year":"1970","area":"128"}
+{"postal_code":"3525 VN","city":"Utrecht","kind":"house","address":"Hooft Graaflandstraat 61","price":"390000","build_year":"1931","area":"101"}
+{"postal_code":"3583 AM","city":"Utrecht","kind":"house","address":"Adriaen van Ostadelaan 118","price":"699000","build_year":"1930","area":"143"}
+{"postal_code":"3555 VL","city":"Utrecht","kind":"house","address":"F. Koolhovenstraat 56","price":"350000","build_year":"1930","area":"113"}
+{"postal_code":"3544 DN","city":"Utrecht","kind":"house","address":"Schoenlappervlinder 16","price":"395000","build_year":"2002","area":"121"}
+{"postal_code":"3513 AR","city":"Utrecht","kind":"house","address":"Beverstraat 42","price":"350000","build_year":"1910","area":"87"}
+{"postal_code":"3572 HS","city":"Utrecht","kind":"house","address":"Ooftstraat 16","price":"475000","build_year":"1906","area":"98"}
+{"postal_code":"3551 ES","city":"Utrecht","kind":"house","address":"Knopstraat 15","price":"350000","build_year":"1904","area":"131"}
+{"postal_code":"3571 AW","city":"Utrecht","kind":"house","address":"Joannes J.F. Waplaan 24","price":"350000","build_year":"1987","area":"112"}
+{"postal_code":"3551 TN","city":"Utrecht","kind":"house","address":"Seringstraat 130","price":"200000","build_year":"1910","area":"71"}
+{"postal_code":"3555 BH","city":"Utrecht","kind":"house","address":"Bernard de Waalstraat 61","price":"298000","build_year":"1935","area":"96"}
+{"postal_code":"3515 BE","city":"Utrecht","kind":"house","address":"Van der Mondestraat 135","price":"429000","build_year":"1930","area":"94"}
+{"postal_code":"3513 XG","city":"Utrecht","kind":"house","address":"Houtstraat 49","price":"259000","build_year":"1945","area":"66"}
+{"postal_code":"3525 VG","city":"Utrecht","kind":"house","address":"Julianaweg 16","price":"400000","build_year":"1928","area":"100"}
+{"postal_code":"3571 AA","city":"Utrecht","kind":"house","address":"Van Lieflandlaan 55","price":"345000","build_year":"1987","area":"129"}
+{"postal_code":"3554 EB","city":"Utrecht","kind":"house","address":"Pionstraat 2","price":"299000","build_year":"1999","area":"123"}
+{"postal_code":"3582 CG","city":"Utrecht","kind":"house","address":"Notebomenlaan 5","price":"749500","build_year":"1906","area":"135"}
+{"postal_code":"3551 SR","city":"Utrecht","kind":"house","address":"Jasmijnstraat 10","price":"275000","build_year":"1910","area":"75"}
+{"postal_code":"3526 VJ","city":"Utrecht","kind":"house","address":"Amerikalaan 174","price":"270000","build_year":"1963","area":"100"}
+{"postal_code":"3585 LH","city":"Utrecht","kind":"house","address":"Mereveldseweg 15","price":"875000","build_year":"1906","area":"235"}
+{"postal_code":"3531 PX","city":"Utrecht","kind":"house","address":"Balistraat 50","price":"299000","build_year":"1904","area":"90"}
+{"postal_code":"3551 EL","city":"Utrecht","kind":"house","address":"Concordiastraat 29","price":"329000","build_year":"1910","area":"90"}
+{"postal_code":"3541 DB","city":"Utrecht","kind":"appartement","address":"De Victoria bouwnummer 107","price":"650000","build_year":"2017","area":"151"}
+{"postal_code":"3531 WH","city":"Utrecht","kind":"appartement","address":"Boeroehof 4","price":"389000","build_year":"2001","area":"108"}
+{"postal_code":"3571 HH","city":"Utrecht","kind":"appartement","address":"Rauwenhofflaan 48","price":"159000","build_year":"1960","area":"47","service":"183"}
+{"postal_code":"3543 GT","city":"Utrecht","kind":"appartement","address":"Miles Davisstraat 253","price":"250000","build_year":"2012","area":"88"}
+{"postal_code":"3524 LX","city":"Utrecht","kind":"appartement","address":"Wageningseberg 338","price":"339000","build_year":"1992","area":"118","service":"207"}
+{"postal_code":"3554 XT","city":"Utrecht","kind":"appartement","address":"Nicolaas Ruychaverstraat 78","price":"159000","build_year":"1930","area":"45"}
+{"postal_code":"3561 CX","city":"Utrecht","kind":"appartement","address":"Euterpedreef 64","price":"179500","build_year":"1966","area":"75","service":"165"}
+{"postal_code":"3512 VL","city":"Utrecht","kind":"appartement","address":"1e Achterstraat 4 a","price":"225000","build_year":"1995","area":"49","service":"75"}
+{"postal_code":"3531 BW","city":"Utrecht","kind":"appartement","address":"Damstraat 48","price":"167500","build_year":"2017","area":"34"}
+{"postal_code":"3511 HG","city":"Utrecht","kind":"appartement","address":"Nicolaas Beetsstraat 148","price":"425000","build_year":"1990","area":"97","service":"175"}
+{"postal_code":"3515 AS","city":"Utrecht","kind":"appartement","address":"Antonius Matthaeuslaan 12","price":"439000","build_year":"1930","area":"130"}
+{"postal_code":"3514 CX","city":"Utrecht","kind":"appartement","address":"Koekoekstraat 32 B","price":"425000","build_year":"1904","area":"120"}
+{"postal_code":"3511 GM","city":"Utrecht","kind":"appartement","address":"Catharijnesingel 74 E","price":"275000","build_year":"2010","area":"59","service":"24"}
+{"postal_code":"3515 AS","city":"Utrecht","kind":"appartement","address":"Antonius Matthaeuslaan 10","price":"215000","build_year":"1926","area":"74"}
+{"postal_code":"3572 BA","city":"Utrecht","kind":"appartement","address":"Biltstraat 14 b","price":"215000","build_year":"1920","area":"42"}
+{"postal_code":"3527 SE","city":"Utrecht","kind":"appartement","address":"Spaaklaan 147","price":"168000","build_year":"1959","area":"38","service":"44"}
+{"postal_code":"3571 HJ","city":"Utrecht","kind":"appartement","address":"Rauwenhofflaan 76","price":"169000","build_year":"1960","area":"48","service":"182"}
+{"postal_code":"3531 CW","city":"Utrecht","kind":"appartement","address":"Riouwstraat 83","price":"150000","build_year":"1915","area":"40","service":"145"}
+{"postal_code":"3572 XJ","city":"Utrecht","kind":"appartement","address":"Admiraal van Gentstraat 65","price":"475000","build_year":"1906","area":"113"}
+{"postal_code":"3562 SP","city":"Utrecht","kind":"appartement","address":"Moezeldreef 79","price":"189000","build_year":"1965","area":"78","service":"267"}
+{"postal_code":"3582 SH","city":"Utrecht","kind":"appartement","address":"Pelikaanstraat 42 Bis","price":"300000","build_year":"1906","area":"87"}
+{"postal_code":"3572 KP","city":"Utrecht","kind":"appartement","address":"Alexander Numankade 23 A","price":"249490","build_year":"1900","area":"60"}
+{"postal_code":"3512 LS","city":"Utrecht","kind":"appartement","address":"Nieuwegracht 34 B","price":"1180000","build_year":"1906","area":"255"}
+{"postal_code":"3512 LS","city":"Utrecht","kind":"appartement","address":"Nieuwegracht 34 A","price":"1180000","build_year":"1906","area":"280"}
+{"postal_code":"3522 GR","city":"Utrecht","kind":"appartement","address":"Roerplein 10","price":"300000","build_year":"2006","area":"105","service":"130"}
+{"postal_code":"3554 HW","city":"Utrecht","kind":"appartement","address":"Prinses Ireneplateau 69","price":"226500","build_year":"2005","area":"60","service":"106"}
+{"postal_code":"3513 BB","city":"Utrecht","kind":"appartement","address":"Weerdsingel W.Z. 18 E","price":"265000","build_year":"2006","area":"55"}
+{"postal_code":"3512 XL","city":"Utrecht","kind":"house","address":"Schutterstraat 4","price":"255000","build_year":"1880","area":"54"}
+{"postal_code":"3543 GS","city":"Utrecht","kind":"house","address":"Ray Connifpad 6","price":"310000","build_year":"2015","area":"110"}
+{"postal_code":"3551 BN","city":"Utrecht","kind":"house","address":"Oppenheimplein 5","price":"319000","build_year":"1920","area":"106"}
+{"postal_code":"3515 GR","city":"Utrecht","kind":"house","address":"Lauwerecht 149","price":"250000","build_year":"1920","area":"59"}
+{"postal_code":"3554 XT","city":"Utrecht","kind":"house","address":"Nicolaas Ruychaverstraat 82","price":"285000","build_year":"1931","area":"96"}
+{"postal_code":"3553 VB","city":"Utrecht","kind":"house","address":"Hermannus Elconiusstraat 51","price":"249000","build_year":"1935","area":"83"}
+{"postal_code":"3512 NH","city":"Utrecht","kind":"house","address":"Magdalenastraat 28","price":"429000","build_year":"1906","area":"74"}
+{"postal_code":"3572 BJ","city":"Utrecht","kind":"house","address":"Biltstraat 108","price":"1250000","build_year":"1887","area":"301"}
+{"postal_code":"3572 CP","city":"Utrecht","kind":"house","address":"Kapelstraat 108","price":"270000","build_year":"1906","area":"72"}
+{"postal_code":"3582 HA","city":"Utrecht","kind":"house","address":"Breitnerlaan 5","price":"995000","build_year":"1958","area":"193"}
+{"postal_code":"3555 CT","city":"Utrecht","kind":"house","address":"De Bazelstraat 78","price":"180000","build_year":"1931","area":"51"}
+{"postal_code":"3531 WJ","city":"Utrecht","kind":"house","address":"Sapoerahof 14","price":"479000","build_year":"2001","area":"118"}
+{"postal_code":"3511 PT","city":"Utrecht","kind":"house","address":"Lange Smeestraat 35 35bs","price":"795000","build_year":"1860","area":"209"}
+{"postal_code":"3526 CC","city":"Utrecht","kind":"house","address":"Magelhaenlaan 131","price":"310000","build_year":"1963","area":"97"}
+{"postal_code":"3553 VW","city":"Utrecht","kind":"house","address":"Hubert Duyfhuysstraat 26","price":"150000","build_year":"1925","area":"44"}
+{"postal_code":"3551 EW","city":"Utrecht","kind":"house","address":"Papaverstraat 38","price":"264000","build_year":"1910","area":"117"}
+{"postal_code":"3583 BW","city":"Utrecht","kind":"house","address":"Laan van Minsweerd 104","price":"375000","build_year":"1945","area":"101"}
+{"postal_code":"3544 RB","city":"Utrecht","kind":"house","address":"Klifrakplantsoen 88","price":"289000","build_year":"2000","area":"107"}
+{"postal_code":"3513 CP","city":"Utrecht","kind":"house","address":"Otterstraat 76","price":"325000","build_year":"1915","area":"87"}
+{"postal_code":"3525 BJ","city":"Utrecht","kind":"house","address":"Verlengde Hoogravenseweg 98","price":"375000","build_year":"1935","area":"92"}
+{"postal_code":"3551 BN","city":"Utrecht","kind":"house","address":"Oppenheimplein 2","price":"315000","build_year":"1927","area":"106"}
+{"postal_code":"3524 DB","city":"Utrecht","kind":"appartement","address":"Karawanken 74","price":"150000","build_year":"1980","area":"55","service":"168"}
+{"postal_code":"3522 KB","city":"Utrecht","kind":"appartement","address":"Giessenplein 7","price":"244500","build_year":"1990","area":"72","service":"95"}
+{"postal_code":"3544 DK","city":"Utrecht","kind":"appartement","address":"Luzernevlinder 79","price":"650000","build_year":"2007","area":"170","service":"210"}
+{"postal_code":"3511 RM","city":"Utrecht","kind":"appartement","address":"Lange Koestraat 39 -a","price":"369000","build_year":"1996","area":"78","service":"79"}
+{"postal_code":"3513 EP","city":"Utrecht","kind":"appartement","address":"Oudenoord 517","price":"187500","build_year":"1958","area":"55","service":"108"}
+{"postal_code":"3532 CZ","city":"Utrecht","kind":"appartement","address":"Louis Couperusstraat 14 A","price":"315000","build_year":"2006","area":"82","service":"115"}
+{"postal_code":"3555 VG","city":"Utrecht","kind":"appartement","address":"F. Koolhovenstraat 61","price":"239500","build_year":"1940","area":"77"}
+{"postal_code":"3526 VT","city":"Utrecht","kind":"appartement","address":"Battutalaan 771","price":"269000","build_year":"2012","area":"87"}
+{"postal_code":"3562 XG","city":"Utrecht","kind":"appartement","address":"Androsdreef 180","price":"185000","build_year":"1966","area":"90","service":"171"}
+{"postal_code":"3524 GE","city":"Utrecht","kind":"appartement","address":"Simplonbaan 153","price":"225000","build_year":"1978","area":"87"}
+{"postal_code":"3523 CZ","city":"Utrecht","kind":"appartement","address":"Smaragdhof 15","price":"185000","build_year":"1958","area":"54","service":"82"}
+{"postal_code":"3521 XV","city":"Utrecht","kind":"appartement","address":"Tesselschadestraat 4","price":"299000","build_year":"1920","area":"76"}
+{"postal_code":"3571 HL","city":"Utrecht","kind":"appartement","address":"Rauwenhofflaan 114","price":"159000","build_year":"1960","area":"48"}
+{"postal_code":"3544 NX","city":"Utrecht","kind":"appartement","address":"Pablo Picassostraat 150","price":"339000","build_year":"2007","area":"106"}
+{"postal_code":"3555 VP","city":"Utrecht","kind":"appartement","address":"C. van Maasdijkstraat 114","price":"199000","build_year":"2005","area":"57","service":"60"}
+{"postal_code":"3532 BL","city":"Utrecht","kind":"appartement","address":"Cremerstraat 228","price":"255000","build_year":"1935","area":"89"}
+{"postal_code":"3584 HL","city":"Utrecht","kind":"appartement","address":"Albert van Dalsumlaan 531","price":"265000","build_year":"1979","area":"86"}
+{"postal_code":"3514 TW","city":"Utrecht","kind":"appartement","address":"2e Spechtstraat 5 bis","price":"445000","build_year":"1904","area":"116"}
+{"postal_code":"3514 TG","city":"Utrecht","kind":"appartement","address":"Valkstraat 29 bis","price":"500000","build_year":"1903","area":"122"}
+{"postal_code":"3573 PD","city":"Utrecht","kind":"appartement","address":"Kemal Atatürkstraat 113","price":"259000","build_year":"1991","area":"93","service":"192"}
+{"postal_code":"3581 AA","city":"Utrecht","kind":"appartement","address":"Nachtegaalstraat 11 A","price":"399000","build_year":"1906","area":"108"}
+{"postal_code":"3511 LX","city":"Utrecht","kind":"appartement","address":"Visschersplein 120 B","price":"395000","build_year":"1905","area":"110"}
+{"postal_code":"3581 JD","city":"Utrecht","kind":"appartement","address":"Van Alphenstraat 54 -1","price":"259000","build_year":"1955","area":"60"}
+{"postal_code":"3526 SM","city":"Utrecht","kind":"appartement","address":"Aziëlaan 404","price":"219500","build_year":"1969","area":"102"}
+{"postal_code":"3532 GE","city":"Utrecht","kind":"appartement","address":"Bakhuizen van den Brinkstraat 2 3","price":"97500","build_year":"1933","area":"21","service":"151"}
+{"postal_code":"3532 EJ","city":"Utrecht","kind":"appartement","address":"Johan de Meesterstraat 83","price":"339500","build_year":"2006","area":"104"}
+{"postal_code":"3555 VP","city":"Utrecht","kind":"appartement","address":"C. van Maasdijkstraat 78","price":"97500","build_year":"2007","area":"27"}
+{"postal_code":"3555 VP","city":"Utrecht","kind":"appartement","address":"C. van Maasdijkstraat 36 S4","price":"95000","build_year":"2008","area":"23","service":"82"}
+{"postal_code":"3531 PT","city":"Utrecht","kind":"house","address":"Balistraat 35","price":"239000","build_year":"1910","area":"67"}
+{"postal_code":"3571 BA","city":"Utrecht","kind":"house","address":"Van Lynden van Sandenburglaan 33","price":"565000","build_year":"1931","area":"118"}
+{"postal_code":"3555 VT","city":"Utrecht","kind":"house","address":"H. Wijnmalenstraat 46","price":"345000","build_year":"1936","area":"105"}
+{"postal_code":"3514 BE","city":"Utrecht","kind":"house","address":"Kraanstraat 28","price":"349000","build_year":"2002","area":"101"}
+{"postal_code":"3581 AA","city":"Utrecht","kind":"house","address":"Nachtegaalstraat 11 A","price":"399000","build_year":"1906","area":"108"}
+{"postal_code":"3511 EV","city":"Utrecht","kind":"house","address":"Sterrenhof 12","price":"599000","build_year":"1873","area":"128"}
+{"postal_code":"3525 AR","city":"Utrecht","kind":"house","address":"Duurstedelaan 24","price":"600000","build_year":"1960","area":"677"}
+{"postal_code":"3561 TM","city":"Utrecht","kind":"house","address":"Katherijn van Leemputdreef 16","price":"269000","build_year":"2002","area":"93"}
+{"postal_code":"3523 TH","city":"Utrecht","kind":"house","address":"Hoogravenseweg 59","price":"325000","build_year":"1931","area":"85"}
+{"postal_code":"3562 AN","city":"Utrecht","kind":"appartement","address":"Dommeringdreef 89","price":"175000","build_year":"1967","area":"112","service":"180"}
+{"postal_code":"3523 CJ","city":"Utrecht","kind":"appartement","address":"Briljantlaan 136","price":"200000","build_year":"1960","area":"64"}
+{"postal_code":"3527 GR","city":"Utrecht","kind":"appartement","address":"Monnetlaan 16","price":"225000","build_year":"1960","area":"78"}
+{"postal_code":"3522 AD","city":"Utrecht","kind":"appartement","address":"Croesestraat 91","price":"309000","build_year":"2001","area":"75"}
+{"postal_code":"3552 XC","city":"Utrecht","kind":"appartement","address":"Anthoniedijk 25 B","price":"159000","build_year":"1972","area":"31"}
+{"postal_code":"3551 BE","city":"Utrecht","kind":"appartement","address":"Acaciastraat 27 Bis","price":"210000","build_year":"1930","area":"93"}
+{"postal_code":"3581 SC","city":"Utrecht","kind":"appartement","address":"Adriaanstraat 45 bis","price":"475000","build_year":"1900","area":"120"}
+{"postal_code":"3581 AG","city":"Utrecht","kind":"appartement","address":"Nachtegaalstraat 12 Bis","price":"845000","build_year":"1928","area":"137"}
+{"postal_code":"3572 TK","city":"Utrecht","kind":"appartement","address":"Oude Kerkstraat 28 Bis","price":"139500","build_year":"1881","area":"30","service":"126"}
+{"postal_code":"3572 JK","city":"Utrecht","kind":"appartement","address":"F.C. Dondersstraat 42","price":"99500","build_year":"1893","area":"24","service":"115"}
+{"postal_code":"3533 JG","city":"Utrecht","kind":"appartement","address":"Ravellaan 41","price":"198000","build_year":"1965","area":"75"}
+{"postal_code":"3551 EV","city":"Utrecht","kind":"appartement","address":"Papaverstraat 47 4","price":"68000","build_year":"1906","area":"14"}
+{"postal_code":"3582 BE","city":"Utrecht","kind":"house","address":"Abstederdijk 135","price":"325000","build_year":"1906","area":"88"}
+{"postal_code":"3571 HB","city":"Utrecht","kind":"house","address":"Prof. Sprengerlaan 21","price":"850000","build_year":"1931","area":"150"}
+{"postal_code":"3581 RJ","city":"Utrecht","kind":"house","address":"Tulpstraat 25 +25 bis","price":"475000","build_year":"1910","area":"103"}
+{"postal_code":"3525 VW","city":"Utrecht","kind":"house","address":"Hooft Graaflandstraat 38 a","price":"429000","build_year":"2008","area":"127"}
+{"postal_code":"3512 NH","city":"Utrecht","kind":"house","address":"Magdalenastraat 24","price":"525000","build_year":"1906","area":"106"}
+{"postal_code":"3563 MD","city":"Utrecht","kind":"house","address":"Vechtdijk 302","price":"539000","build_year":"2016","area":"155"}
+{"postal_code":"3554 BB","city":"Utrecht","kind":"appartement","address":"Koppestokstraat 35 c","price":"85000","build_year":"2007","area":"31","service":"165"}
+{"postal_code":"3572 KG","city":"Utrecht","kind":"house","address":"Thomassenstraat 10","price":"575000","build_year":"1906","area":"111"}
+{"postal_code":"3522 JS","city":"Utrecht","kind":"house","address":"Merwedeplantsoen 43","price":"449000","build_year":"1999","area":"130"}
+{"postal_code":"3511 VA","city":"Utrecht","kind":"house","address":"Walsteeg 16","price":"300000","build_year":"1915","area":"56"}
+{"postal_code":"3531 TG","city":"Utrecht","kind":"appartement","address":"Billitonkade 24","price":"200000","build_year":"1910","area":"40"}
+{"postal_code":"3571 PG","city":"Utrecht","kind":"appartement","address":"Hijmans van den Berghlaan 204","price":"165000","build_year":"1960","area":"46"}
+{"postal_code":"3522 HG","city":"Utrecht","kind":"appartement","address":"Jutfaseweg 85 B","price":"189500","build_year":"1926","area":"41","service":"90"}
+{"postal_code":"3511 NM","city":"Utrecht","kind":"appartement","address":"Oudegracht 257 B","price":"549000","build_year":"1600","area":"109","service":"120"}
+{"postal_code":"3554 GJ","city":"Utrecht","kind":"appartement","address":"Prinses Margrietstraat 104 bis","price":"225000","build_year":"1951","area":"80"}
+{"postal_code":"3581 RD","city":"Utrecht","kind":"appartement","address":"Kerkstraat 10","price":"749000","build_year":"1906","area":"152"}
+{"postal_code":"3531 PE","city":"Utrecht","kind":"appartement","address":"Borneostraat 9","price":"157500","build_year":"1910","area":"26"}
+{"postal_code":"3553 ED","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 491 2.","price":"73500","build_year":"2008","area":"15","service":"88"}
+{"postal_code":"3572 SM","city":"Utrecht","kind":"house","address":"Bekkerstraat 150","price":"350000","build_year":"1895","area":"77"}
+{"postal_code":"3572 XP","city":"Utrecht","kind":"house","address":"Van Brakelstraat 3","price":"795000","build_year":"1900","area":"125"}
+{"postal_code":"3581 WT","city":"Utrecht","kind":"house","address":"Bolstraat 41","price":"430000","build_year":"1926","area":"146"}
+{"postal_code":"3563 ME","city":"Utrecht","kind":"house","address":"Vechtdijk 374","price":"398000","build_year":"2004","area":"85"}
+{"postal_code":"3512 TP","city":"Utrecht","kind":"house","address":"Hardebollenstraat 8 - 14","price":"1142000","build_year":"1906","area":"225"}
+{"postal_code":"3512 TP","city":"Utrecht","kind":"house","address":"Hardebollenstraat 2 - 6","price":"1263320","build_year":"1906","area":"347"}
+{"postal_code":"3582 AJ","city":"Utrecht","kind":"house","address":"Tolsteegsingel 38","price":"1000000","build_year":"1870","area":"310"}
+{"postal_code":"3512 CM","city":"Utrecht","kind":"house","address":"Ridderschapstraat 13","price":"849000","build_year":"1885","area":"190"}
+{"postal_code":"3581 EJ","city":"Utrecht","kind":"house","address":"Mgr. van de Weteringstraat 30 -30bis","price":"749000","build_year":"1906","area":"170"}
+{"postal_code":"3512 NH","city":"Utrecht","kind":"house","address":"Magdalenastraat 5","price":"775000","build_year":"1876","area":"126"}
+{"postal_code":"3581 EN","city":"Utrecht","kind":"appartement","address":"Mgr. van de Weteringstraat 128","price":"88000","build_year":"1900","area":"16","service":"122"}
+{"postal_code":"3522 RD","city":"Utrecht","kind":"house","address":"Volkerakstraat 40","price":"300000","build_year":"1935","area":"75"}
+{"postal_code":"3531 GK","city":"Utrecht","kind":"house","address":"Van den Boschstraat 11","price":"299000","build_year":"1910","area":"84"}
+{"postal_code":"3551 EJ","city":"Utrecht","kind":"house","address":"2e Daalsedijk 16","price":"410000","build_year":"1906","area":"122"}
+{"postal_code":"3531 KP","city":"Utrecht","kind":"appartement","address":"Paramaribostraat 21","price":"200000","build_year":"1930","area":"68","service":"112"}
+{"postal_code":"3553 ED","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 491 -4","price":"68000","build_year":"2009","area":"15","service":"113"}
+{"postal_code":"3555 BL","city":"Utrecht","kind":"appartement","address":"Adriaan Mulderstraat 3 3","price":"70000","build_year":"2006","area":"16","service":"124"}
+{"postal_code":"3555 HE","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 705 1","price":"97000","build_year":"2006","area":"19","service":"160"}
+{"postal_code":"3551 CN","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 218 A","price":"280000","build_year":"1930","area":"109"}
+{"postal_code":"3572 HH","city":"Utrecht","kind":"appartement","address":"Poortstraat 2 a Bis","price":"749000","build_year":"1895","area":"186"}
+{"postal_code":"3572 JA","city":"Utrecht","kind":"appartement","address":"F.C. Dondersstraat 5 bis","price":"105000","build_year":"1889","area":"16","service":"146"}
+{"postal_code":"3532 GE","city":"Utrecht","kind":"appartement","address":"Bakhuizen van den Brinkstraat 2 2","price":"95000","build_year":"1933","area":"15","service":"133"}
+{"postal_code":"3555 HE","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 705 3","price":"99500","build_year":"2006","area":"24"}
+{"postal_code":"3581 JC","city":"Utrecht","kind":"house","address":"Van Alphenstraat 36","price":"389500","build_year":"1906","area":"82"}
+{"postal_code":"3512 TP","city":"Utrecht","kind":"house","address":"Hardebollenstraat 7 - 13","price":"1654000","build_year":"1906","area":"520"}
+{"postal_code":"3512 TP","city":"Utrecht","kind":"house","address":"Hardebollenstraat 1 - 1 bis","price":"239000","build_year":"1906","area":"78"}
+{"postal_code":"3555 HE","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 703 1","price":"82500","build_year":"2007","area":"23"}
+{"postal_code":"3563 HM","city":"Utrecht","kind":"house","address":"El Salvadordreef 7","price":"235000","build_year":"1984","area":"98"}
+{"postal_code":"3554 EE","city":"Utrecht","kind":"house","address":"Grootmeesterplein 36","price":"365000","build_year":"1999","area":"133"}
+{"postal_code":"3543 CJ","city":"Utrecht","kind":"house","address":"Harry Banninkstraat 92","price":"425000","build_year":"2005","area":"156"}
+{"postal_code":"3543 CA","city":"Utrecht","kind":"house","address":"Jerry Bockstraat 29","price":"505000","build_year":"2005","area":"182"}
+{"postal_code":"3571 XX","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 2)","price":"615000","build_year":"2019","area":"157"}
+{"postal_code":"3531 PB","city":"Utrecht","kind":"appartement","address":"Sumatrastraat 39 2","price":"119500","build_year":"2006","area":"22","service":"155"}
+{"postal_code":"3554 AT","city":"Utrecht","kind":"appartement","address":"Van Hoornekade 143","price":"249000","build_year":"1930","area":"63"}
+{"postal_code":"3564 KE","city":"Utrecht","kind":"appartement","address":"New Yorkdreef 41","price":"165000","build_year":"1985","area":"67"}
+{"postal_code":"3555 HC","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 683","price":"75000","build_year":"1936","area":"17"}
+{"postal_code":"3572 RH","city":"Utrecht","kind":"appartement","address":"Staalstraat 69 7","price":"75000","build_year":"1910","area":"16"}
+{"postal_code":"3572 GX","city":"Utrecht","kind":"house","address":"Griftstraat 64","price":"495000","build_year":"1906","area":"102"}
+{"postal_code":"3531 PT","city":"Utrecht","kind":"house","address":"Balistraat 51","price":"299000","build_year":"1918","area":"79"}
+{"postal_code":"3554 XX","city":"Utrecht","kind":"house","address":"Jan Haringstraat 40","price":"300000","build_year":"1931","area":"94"}
+{"postal_code":"3554 BB","city":"Utrecht","kind":"appartement","address":"Koppestokstraat 31 BIS","price":"90000","build_year":"2006","area":"22"}
+{"postal_code":"3572 EP","city":"Utrecht","kind":"appartement","address":"Gildstraat 60 A","price":"169500","build_year":"1860","area":"32","service":"90"}
+{"postal_code":"3551 TA","city":"Utrecht","kind":"appartement","address":"Bremstraat 31 3","price":"90000","build_year":"1910","area":"22"}
+{"postal_code":"3553 EN","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 536","price":"295000","build_year":"1915","area":"93","service":"60"}
+{"postal_code":"3513 BN","city":"Utrecht","kind":"appartement","address":"Singelstraat 4 BIS - 8","price":"169000","build_year":"2006","area":"30"}
+{"postal_code":"3572 KP","city":"Utrecht","kind":"appartement","address":"Alexander Numankade 17 7.","price":"105000","build_year":"1900","area":"18"}
+{"postal_code":"3583 AR","city":"Utrecht","kind":"house","address":"Ferdinand Bolstraat 18","price":"349000","build_year":"1910","area":"75"}
+{"postal_code":"3571 SZ","city":"Utrecht","kind":"house","address":"Mr. Tripkade 62","price":"489000","build_year":"1931","area":"114"}
+{"postal_code":"3551 CH","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 309 bis","price":"249000","build_year":"1929","area":"77"}
+{"postal_code":"3511 MC","city":"Utrecht","kind":"appartement","address":"Arthur van Schendelstraat 245","price":"335000","build_year":"1993","area":"80","service":"135"}
+{"postal_code":"3552 EE","city":"Utrecht","kind":"appartement","address":"Ondiep 137","price":"195000","build_year":"1930","area":"47","service":"44"}
+{"postal_code":"3512 CP","city":"Utrecht","kind":"appartement","address":"Ridderschapstraat 10","price":"450000","build_year":"1665","area":"111","service":"75"}
+{"postal_code":"3555 SW","city":"Utrecht","kind":"house","address":"Daalseweg 52","price":"475000","build_year":"2017","area":"143"}
+{"postal_code":"3581 JH","city":"Utrecht","kind":"house","address":"Oudwijkerveldstraat 49","price":"325000","build_year":"1910","area":"74"}
+{"postal_code":"3531 HD","city":"Utrecht","kind":"appartement","address":"Leidsekade 115","price":"500000","build_year":"1898","area":"123","service":"55"}
+{"postal_code":"3521 XJ","city":"Utrecht","kind":"appartement","address":"Coornhertstraat 24 a","price":"159500","build_year":"1906","area":"28"}
+{"postal_code":"3544 MN","city":"Utrecht","kind":"house","address":"Parkzichtlaan","price":"675000","build_year":"2018","area":"167"}
+{"postal_code":"3511 LX","city":"Utrecht","kind":"appartement","address":"Visschersplein 42 PP","price":"325000","build_year":"1987","area":"68","service":"92"}
+{"postal_code":"3511 KL","city":"Utrecht","kind":"house","address":"Hanengeschrei 2","price":"350000","build_year":"1600","area":"58"}
+{"postal_code":"3554 HW","city":"Utrecht","kind":"house","address":"Prinses Ireneplateau 125","price":"374500","build_year":"2005","area":"173"}
+{"postal_code":"3533 JA","city":"Utrecht","kind":"appartement","address":"Bartóklaan 74","price":"375000","build_year":"2005","area":"115"}
+{"postal_code":"3544 MA","city":"Utrecht","kind":"house","address":"Carel Willinkstraat 27","price":"239500","build_year":"2005","area":"81"}
+{"postal_code":"3527 JA","city":"Utrecht","kind":"appartement","address":"Van Vollenhovenlaan 9","price":"175000","build_year":"1960","area":"64"}
+{"postal_code":"3532 GE","city":"Utrecht","kind":"appartement","address":"Bakhuizen van den Brinkstraat 4","price":"319000","build_year":"1935","area":"101"}
+{"postal_code":"3521 EG","city":"Utrecht","kind":"house","address":"Jekerstraat 8","price":"450000","build_year":"1930","area":"116"}
+{"postal_code":"3524 KT","city":"Utrecht","kind":"house","address":"Salzburg 4","price":"375000","build_year":"1983","area":"127"}
+{"postal_code":"3551 BA","city":"Utrecht","kind":"house","address":"Violenstraat 21","price":"285000","build_year":"1920","area":"77"}
+{"postal_code":"3573 SP","city":"Utrecht","kind":"house","address":"Lippizanerstraat 73","price":"685000","build_year":"2015","area":"198"}
+{"postal_code":"3544 TS","city":"Utrecht","kind":"house","address":"Akkrumerraklaan 118","price":"625000","build_year":"2001","area":"160"}
+{"postal_code":"3521 DJ","city":"Utrecht","kind":"appartement","address":"Voorsterbeeklaan 93","price":"849000","build_year":"2008","area":"198","service":"326"}
+{"postal_code":"3571 VZ","city":"Utrecht","kind":"house","address":"Burgemeester van der Voort van Zijplaan 84","price":"625000","build_year":"1931","area":"129"}
+{"postal_code":"3512 EB","city":"Utrecht","kind":"appartement","address":"Keizerstraat 16 C","price":"469000","build_year":"1991","area":"103","service":"213"}
+{"postal_code":"3554 HL","city":"Utrecht","kind":"appartement","address":"Daelwijcklaan 192","price":"259000","build_year":"2011","area":"94","service":"125"}
+{"postal_code":"3571 VZ","city":"Utrecht","kind":"house","address":"Burgemeester van der Voort van Zijplaan 82","price":"550000","build_year":"1931","area":"121"}
+{"postal_code":"3571 BE","city":"Utrecht","kind":"house","address":"Schimmelpennincklaan 29","price":"650000","build_year":"1930","area":"134"}
+{"postal_code":"3533 VZ","city":"Utrecht","kind":"house","address":"Byronstraat 52","price":"449000","build_year":"1931","area":"102"}
+{"postal_code":"3581 RR","city":"Utrecht","kind":"house","address":"Moesstraat 6","price":"245000","build_year":"1860","area":"49"}
+{"postal_code":"3524 RK","city":"Utrecht","kind":"appartement","address":"Normandië 54","price":"205000","build_year":"1983","area":"79","service":"112"}
+{"postal_code":"3511 RH","city":"Utrecht","kind":"house","address":"Willemstraat 47","price":"409000","build_year":"1906","area":"91"}
+{"postal_code":"3515 BG","city":"Utrecht","kind":"house","address":"Van der Mondestraat 147","price":"395000","build_year":"1930","area":"86"}
+{"postal_code":"3525 BK","city":"Utrecht","kind":"house","address":"Verlengde Hoogravenseweg 112","price":"375000","build_year":"1926","area":"100"}
+{"postal_code":"3543 HT","city":"Utrecht","kind":"house","address":"Eduard Künnekehof 3","price":"435000","build_year":"2004","area":"126"}
+{"postal_code":"3514 VK","city":"Utrecht","kind":"appartement","address":"Johannes de Bekastraat 47 B","price":"200000","build_year":"1910","area":"43","service":"100"}
+{"postal_code":"3561 TM","city":"Utrecht","kind":"house","address":"Katherijn van Leemputdreef 10","price":"225000","build_year":"2002","area":"73"}
+{"postal_code":"3523 CH","city":"Utrecht","kind":"appartement","address":"Briljantlaan 104","price":"215000","build_year":"1960","area":"66"}
+{"postal_code":"3531 BX","city":"Utrecht","kind":"appartement","address":"Moskeeplein 77","price":"399000","build_year":"2014","area":"96","service":"117"}
+{"postal_code":"3572 TW","city":"Utrecht","kind":"appartement","address":"Griftkade 5 bis","price":"349000","build_year":"1939","area":"74","service":"95"}
+{"postal_code":"3526 HN","city":"Utrecht","kind":"appartement","address":"Livingstonelaan 50","price":"185000","build_year":"1965","area":"80","service":"146"}
+{"postal_code":"3515 AV","city":"Utrecht","kind":"appartement","address":"Antonius Matthaeuslaan 102","price":"349000","build_year":"1930","area":"79"}
+{"postal_code":"3552 GW","city":"Utrecht","kind":"appartement","address":"Nieuwlichtstraat 75","price":"175000","build_year":"1980","area":"81"}
+{"postal_code":"3581 MR","city":"Utrecht","kind":"house","address":"Zonstraat 89","price":"450000","build_year":"1911","area":"105"}
+{"postal_code":"3552 BJ","city":"Utrecht","kind":"house","address":"Larixstraat 5","price":"289000","build_year":"1949","area":"101"}
+{"postal_code":"3523 KE","city":"Utrecht","kind":"house","address":"Heemstedelaan 28","price":"285000","build_year":"2008","area":"89"}
+{"postal_code":"3553 VG","city":"Utrecht","kind":"house","address":"Hermannus Elconiusstraat 54","price":"299000","build_year":"1906","area":"100"}
+{"postal_code":"3582 BJ","city":"Utrecht","kind":"house","address":"Abstederdijk 237","price":"335000","build_year":"1906","area":"74"}
+{"postal_code":"3522 EM","city":"Utrecht","kind":"house","address":"Berkelstraat 107","price":"297000","build_year":"1931","area":"83"}
+{"postal_code":"3555 TA","city":"Utrecht","kind":"house","address":"W.J. Bossenbroekstraat 9 A","price":"375000","build_year":"2012","area":"128"}
+{"postal_code":"3555 VZ","city":"Utrecht","kind":"house","address":"Lieven de Keylaan 7","price":"355000","build_year":"2012","area":"130"}
+{"postal_code":"3522 BB","city":"Utrecht","kind":"appartement","address":"Rijnlaan 23","price":"265000","build_year":"1995","area":"89","service":"170"}
+{"postal_code":"3531 VC","city":"Utrecht","kind":"house","address":"Groeneweg 69","price":"295000","build_year":"1922","area":"80"}
+{"postal_code":"3555 CM","city":"Utrecht","kind":"house","address":"M. de Klerkstraat 17","price":"225000","build_year":"1931","area":"61"}
+{"postal_code":"3523 CP","city":"Utrecht","kind":"house","address":"Agaatlaan 39","price":"335000","build_year":"1998","area":"106"}
+{"postal_code":"3524 AJ","city":"Utrecht","kind":"house","address":"Schiermonnikoog 14","price":"315000","build_year":"1981","area":"114"}
+{"postal_code":"3543 DL","city":"Utrecht","kind":"house","address":"Meredith Willsonstraat 25","price":"399000","build_year":"2007","area":"150"}
+{"postal_code":"3515 XT","city":"Utrecht","kind":"house","address":"Adriaen Beyerkade 21","price":"330000","build_year":"1930","area":"127"}
+{"postal_code":"3533 AR","city":"Utrecht","kind":"appartement","address":"Lessinglaan 43","price":"190000","build_year":"1954","area":"57","service":"191"}
+{"postal_code":"3571 JT","city":"Utrecht","kind":"appartement","address":"Eykmanlaan 36","price":"217500","build_year":"1960","area":"55","service":"130"}
+{"postal_code":"3521 VR","city":"Utrecht","kind":"appartement","address":"Da Costakade 13 bis","price":"275000","build_year":"1935","area":"83","service":"107"}
+{"postal_code":"3553 CJ","city":"Utrecht","kind":"appartement","address":"Ampèrestraat 27","price":"200000","build_year":"1936","area":"61","service":"50"}
+{"postal_code":"3562 AG","city":"Utrecht","kind":"appartement","address":"Pahud de Mortangesdreef 230","price":"150000","build_year":"1967","area":"67","service":"167"}
+{"postal_code":"3526 JC","city":"Utrecht","kind":"appartement","address":"Livingstonelaan 536","price":"140000","build_year":"1964","area":"70","service":"180"}
+{"postal_code":"3544 SC","city":"Utrecht","kind":"appartement","address":"Houtrakgracht 225","price":"235000","build_year":"2001","area":"93","service":"143"}
+{"postal_code":"3561 EA","city":"Utrecht","kind":"appartement","address":"Fortunadreef 57","price":"215000","build_year":"2008","area":"82","service":"114"}
+{"postal_code":"3532 EB","city":"Utrecht","kind":"appartement","address":"Queridostraat 23","price":"250000","build_year":"1941","area":"59"}
+{"postal_code":"3544 VM","city":"Utrecht","kind":"house","address":"Vlindersingel 236","price":"895000","build_year":"2018","area":"270"}
+{"postal_code":"3525 VJ","city":"Utrecht","kind":"house","address":"Julianaweg 118","price":"425000","build_year":"1936","area":"110"}
+{"postal_code":"3524 EC","city":"Utrecht","kind":"house","address":"Shetlands 11","price":"300000","build_year":"1977","area":"150"}
+{"postal_code":"3544 NA","city":"Utrecht","kind":"house","address":"Tempelierhof 3","price":"669000","build_year":"2009","area":"130"}
+{"postal_code":"3554 AR","city":"Utrecht","kind":"appartement","address":"Van Hoornekade 1","price":"232500","build_year":"2012","area":"76","service":"92"}
+{"postal_code":"3511 EH","city":"Utrecht","kind":"appartement","address":"Stationsstraat 86 .","price":"349000","build_year":"1976","area":"98","service":"320"}
+{"postal_code":"3543 GT","city":"Utrecht","kind":"appartement","address":"Miles Davisstraat 175","price":"195000","build_year":"2012","area":"53","service":"53"}
+{"postal_code":"3524 DA","city":"Utrecht","kind":"appartement","address":"Karawanken 30","price":"185000","build_year":"1980","area":"92","service":"253"}
+{"postal_code":"3533 SZ","city":"Utrecht","kind":"appartement","address":"Hendrika van Tussenbroeklaan 158","price":"385000","build_year":"2002","area":"114"}
+{"postal_code":"3572 TN","city":"Utrecht","kind":"house","address":"Krijtstraat 10","price":"275000","build_year":"1881","area":"87"}
+{"postal_code":"3555 WG","city":"Utrecht","kind":"house","address":"Jan Ligthartplein 7","price":"315000","build_year":"2006","area":"130"}
+{"postal_code":"3551 EN","city":"Utrecht","kind":"house","address":"Concordiastraat 52","price":"265000","build_year":"1911","area":"79"}
+{"postal_code":"3531 KD","city":"Utrecht","kind":"appartement","address":"Celebesstraat 42 Bis","price":"175000","build_year":"1926","area":"58","service":"75"}
+{"postal_code":"3551 TD","city":"Utrecht","kind":"house","address":"Bremstraat 22","price":"275000","build_year":"1910","area":"63"}
+{"postal_code":"3554 VL","city":"Utrecht","kind":"house","address":"Cornelis Dirkszstraat 18","price":"239000","build_year":"1930","area":"65"}
+{"postal_code":"3523 VH","city":"Utrecht","kind":"house","address":"Jan van Arkelstraat 50","price":"429000","build_year":"1935","area":"108"}
+{"postal_code":"3544 MA","city":"Utrecht","kind":"house","address":"Carel Willinkstraat 25","price":"225000","build_year":"2005","area":"80"}
+{"postal_code":"3533 SE","city":"Utrecht","kind":"house","address":"Noltheniusstraat 11","price":"450000","build_year":"1954","area":"110"}
+{"postal_code":"3526 JE","city":"Utrecht","kind":"appartement","address":"Livingstonelaan 614","price":"190000","build_year":"1964","area":"88","service":"219"}
+{"postal_code":"3527 KJ","city":"Utrecht","kind":"appartement","address":"Struyckenlaan 53","price":"185000","build_year":"1962","area":"70","service":"172"}
+{"postal_code":"3532 TP","city":"Utrecht","kind":"appartement","address":"Van Lennepstraat 28 W","price":"195000","build_year":"1904","area":"40","service":"20"}
+{"postal_code":"3583 AH","city":"Utrecht","kind":"appartement","address":"Adriaen van Ostadelaan 169 3","price":"250000","build_year":"1951","area":"75","service":"224"}
+{"postal_code":"3583 AH","city":"Utrecht","kind":"appartement","address":"Adriaen van Ostadelaan 169 IV","price":"225000","build_year":"1955","area":"76","service":"223"}
+{"postal_code":"3526 GE","city":"Utrecht","kind":"appartement","address":"Marco Pololaan 355","price":"159000","build_year":"1956","area":"75","service":"154"}
+{"postal_code":"3513 EX","city":"Utrecht","kind":"appartement","address":"Oudenoord 444","price":"179000","build_year":"1951","area":"48","service":"27"}
+{"postal_code":"3543 GR","city":"Utrecht","kind":"appartement","address":"Sonny Rollinsstraat 172","price":"180000","build_year":"2012","area":"49","service":"48"}
+{"postal_code":"3524 LV","city":"Utrecht","kind":"appartement","address":"Wageningseberg 194","price":"210000","build_year":"1992","area":"70","service":"186"}
+{"postal_code":"3553 JX","city":"Utrecht","kind":"house","address":"Werner Helmichstraat 32","price":"300000","build_year":"1931","area":"87"}
+{"postal_code":"3563 CV","city":"Utrecht","kind":"house","address":"Sabadreef 9","price":"225000","build_year":"1981","area":"97"}
+{"postal_code":"3561 VB","city":"Utrecht","kind":"house","address":"De Charmantedreef 26","price":"199000","build_year":"1966","area":"97"}
+{"postal_code":"3543 DS","city":"Utrecht","kind":"house","address":"Jule Stynestraat 64","price":"499000","build_year":"2006","area":"155"}
+{"postal_code":"3582 DN","city":"Utrecht","kind":"house","address":"Mantelmeeuwhof 15","price":"545000","build_year":"2009","area":"131"}
+{"postal_code":"3525 VS","city":"Utrecht","kind":"house","address":"Hooft Graaflandstraat 179","price":"380000","build_year":"1935","area":"104"}
+{"postal_code":"3522 CD","city":"Utrecht","kind":"house","address":"Scheldestraat 20","price":"395000","build_year":"1996","area":"118"}
+{"postal_code":"3514 ED","city":"Utrecht","kind":"house","address":"Nieuwe Koekoekstraat 131","price":"525000","build_year":"1906","area":"140"}
+{"postal_code":"3554 BL","city":"Utrecht","kind":"appartement","address":"Blois van Treslongstraat 85 BIS","price":"250000","build_year":"1930","area":"80"}
+{"postal_code":"3521 GL","city":"Utrecht","kind":"appartement","address":"Balijelaan 39","price":"209000","build_year":"1935","area":"65"}
+{"postal_code":"3526 XX","city":"Utrecht","kind":"appartement","address":"Jo Wüthrichlaan 25","price":"279000","build_year":"2001","area":"85","service":"147"}
+{"postal_code":"3584 HA","city":"Utrecht","kind":"appartement","address":"Albert van Dalsumlaan 55","price":"275000","build_year":"1979","area":"86"}
+{"postal_code":"3511 TW","city":"Utrecht","kind":"appartement","address":"Jeremiestraat 16 A","price":"167500","build_year":"1910","area":"30"}
+{"postal_code":"3543 GT","city":"Utrecht","kind":"appartement","address":"Miles Davisstraat 275","price":"325000","build_year":"2012","area":"93"}
+{"postal_code":"3554 HW","city":"Utrecht","kind":"appartement","address":"Prinses Ireneplateau 45","price":"179500","build_year":"2005","area":"60","service":"106"}
+{"postal_code":"3514 VK","city":"Utrecht","kind":"appartement","address":"Johannes de Bekastraat 47 a","price":"195000","build_year":"1910","area":"43"}
+{"postal_code":"3572 JH","city":"Utrecht","kind":"appartement","address":"F.C. Dondersstraat 20 -3","price":"115000","build_year":"1895","area":"17","service":"97"}
+{"postal_code":"3523 HE","city":"Utrecht","kind":"appartement","address":"Slotlaan 106","price":"197500","build_year":"1960","area":"63"}
+{"postal_code":"3527 BW","city":"Utrecht","kind":"house","address":"Verzetslaan 6","price":"299000","build_year":"2005","area":"130"}
+{"postal_code":"3564 HA","city":"Utrecht","kind":"house","address":"Bagdaddreef 15","price":"269000","build_year":"1975","area":"128"}
+{"postal_code":"3561 KS","city":"Utrecht","kind":"house","address":"La Traviatadreef 28","price":"274000","build_year":"1965","area":"129"}
+{"postal_code":"3584 ZX","city":"Utrecht","kind":"house","address":"Fien de la Marlaan 82","price":"650000","build_year":"1979","area":"152"}
+{"postal_code":"3554 CM","city":"Utrecht","kind":"appartement","address":"Jacob Simonsz. de Rijkstraat 66","price":"174000","build_year":"1985","area":"58","service":"89"}
+{"postal_code":"3531 TH","city":"Utrecht","kind":"appartement","address":"Billitonkade 28 bis","price":"359000","build_year":"1904","area":"122"}
+{"postal_code":"3511 PS","city":"Utrecht","kind":"appartement","address":"Lange Smeestraat 11 Bis","price":"142500","build_year":"1650","area":"25","service":"131"}
+{"postal_code":"3526 XX","city":"Utrecht","kind":"appartement","address":"Jo Wüthrichlaan 27","price":"289000","build_year":"2001","area":"96"}
+{"postal_code":"3572 KV","city":"Utrecht","kind":"appartement","address":"Alexander Numankade 67 bis","price":"425000","build_year":"1896","area":"128"}
+{"postal_code":"3584 HL","city":"Utrecht","kind":"appartement","address":"Albert van Dalsumlaan 543","price":"265000","build_year":"1979","area":"81"}
+{"postal_code":"3572 RM","city":"Utrecht","kind":"appartement","address":"Goedestraat 39 39 bis","price":"750000","build_year":"1906","area":"263"}
+{"postal_code":"3584 HS","city":"Utrecht","kind":"appartement","address":"Albert van Dalsumlaan 831","price":"239000","build_year":"1979","area":"76"}
+{"postal_code":"3584 ZP","city":"Utrecht","kind":"house","address":"Wim Sonneveldlaan 93","price":"650000","build_year":"1978","area":"167"}
+{"postal_code":"3533 EG","city":"Utrecht","kind":"house","address":"Von Weberstraat 74","price":"425000","build_year":"1955","area":"103"}
+{"postal_code":"3512 HA","city":"Utrecht","kind":"appartement","address":"Jansdam 1 -J","price":"289000","build_year":"1900","area":"69"}
+{"postal_code":"3584 HC","city":"Utrecht","kind":"appartement","address":"Albert van Dalsumlaan 147","price":"375000","build_year":"1979","area":"108"}
+{"postal_code":"3544 MK","city":"Utrecht","kind":"house","address":"Theo van Doesburgstraat 103","price":"300000","build_year":"2006","area":"118"}
+{"postal_code":"3532 EL","city":"Utrecht","kind":"house","address":"Jaffastraat 3","price":"375000","build_year":"1936","area":"122"}
+{"postal_code":"3583 CH","city":"Utrecht","kind":"appartement","address":"Jacob van Ruisdaelstraat 118 A","price":"139000","build_year":"1924","area":"32","service":"35"}
+{"postal_code":"3512 LS","city":"Utrecht","kind":"appartement","address":"Nieuwegracht 32 D","price":"525000","build_year":"1600","area":"95","service":"269"}
+{"postal_code":"3563 CR","city":"Utrecht","kind":"appartement","address":"Pernambucodreef 10","price":"165000","build_year":"1971","area":"88","service":"155"}
+{"postal_code":"3562 XE","city":"Utrecht","kind":"appartement","address":"Androsdreef 156","price":"185000","build_year":"1966","area":"92","service":"169"}
+{"postal_code":"3564 BX","city":"Utrecht","kind":"appartement","address":"Pretoriadreef 74","price":"215000","build_year":"2011","area":"83","service":"126"}
+{"postal_code":"3564 BX","city":"Utrecht","kind":"appartement","address":"Pretoriadreef 37","price":"230000","build_year":"2011","area":"88","service":"139"}
+{"postal_code":"3526 JG","city":"Utrecht","kind":"appartement","address":"Livingstonelaan 674","price":"175000","build_year":"1964","area":"70","service":"150"}
+{"postal_code":"3533 GH","city":"Utrecht","kind":"appartement","address":"Händelstraat 59 II","price":"349000","build_year":"1955","area":"129","service":"178"}
+{"postal_code":"3514 EB","city":"Utrecht","kind":"house","address":"Nieuwe Koekoekstraat 55 - 57","price":"349000","build_year":"1904","area":"88"}
+{"postal_code":"3522 TB","city":"Utrecht","kind":"house","address":"Westravenstraat 69","price":"275000","build_year":"1919","area":"75"}
+{"postal_code":"3582 CD","city":"Utrecht","kind":"house","address":"Minstraat 46","price":"500000","build_year":"1904","area":"120"}
+{"postal_code":"3533 SL","city":"Utrecht","kind":"house","address":"Averkamplaan 14","price":"425000","build_year":"1954","area":"100"}
+{"postal_code":"3583 EN","city":"Utrecht","kind":"house","address":"Prins Hendriklaan 36","price":"575000","build_year":"1910","area":"121"}
+{"postal_code":"3532 GN","city":"Utrecht","kind":"house","address":"Rhijnvis Feithstraat 3","price":"450000","build_year":"1939","area":"120"}
+{"postal_code":"3544 HG","city":"Utrecht","kind":"house","address":"Annie M.G. Schmidtstraat 8","price":"390000","build_year":"2016","area":"133"}
+{"postal_code":"3554 BG","city":"Utrecht","kind":"house","address":"Koppestokstraat 100","price":"197000","build_year":"1930","area":"75"}
+{"postal_code":"3523 GR","city":"Utrecht","kind":"house","address":"Turkooislaan 152","price":"300000","build_year":"1958","area":"81"}
+{"postal_code":"3525 VW","city":"Utrecht","kind":"house","address":"Hooft Graaflandstraat 40 A","price":"445000","build_year":"2008","area":"132"}
+{"postal_code":"3527 AE","city":"Utrecht","kind":"house","address":"Rooseveltlaan 18","price":"235000","build_year":"1959","area":"104"}
+{"postal_code":"3544 DN","city":"Utrecht","kind":"house","address":"Schoenlappervlinder 8","price":"398000","build_year":"2002","area":"121"}
+{"postal_code":"3571 ZD","city":"Utrecht","kind":"house","address":"Zwaardemakerlaan 30","price":"390000","build_year":"1965","area":"126"}
+{"postal_code":"3573 BN","city":"Utrecht","kind":"house","address":"Steve Bikostraat 403","price":"325000","build_year":"1992","area":"104"}
+{"postal_code":"3551 CA","city":"Utrecht","kind":"appartement","address":"Amsterdamsestraatweg 169 K","price":"195000","build_year":"1995","area":"70","service":"130"}
+{"postal_code":"3533 CD","city":"Utrecht","kind":"appartement","address":"Victor Hugoplantsoen 6 1","price":"215000","build_year":"1956","area":"63"}
+{"postal_code":"3552 HK","city":"Utrecht","kind":"appartement","address":"Marnixlaan 266","price":"290000","build_year":"2011","area":"124","service":"164"}
+{"postal_code":"3513 CM","city":"Utrecht","kind":"appartement","address":"Otterstraat 48 E","price":"285000","build_year":"1995","area":"71","service":"117"}
+{"postal_code":"3561 EA","city":"Utrecht","kind":"appartement","address":"Fortunadreef 5","price":"225000","build_year":"2008","area":"81","service":"118"}
+{"postal_code":"3582 JA","city":"Utrecht","kind":"appartement","address":"Rubenslaan 45 3","price":"245000","build_year":"1957","area":"75","service":"157"}
+{"postal_code":"3527 VM","city":"Utrecht","kind":"appartement","address":"Van Eysingalaan 64","price":"195000","build_year":"1960","area":"74","service":"125"}
+{"postal_code":"3573 BT","city":"Utrecht","kind":"appartement","address":"Pedro Luis Briónstraat 27","price":"235000","build_year":"1992","area":"80","service":"186"}
+{"postal_code":"3527 VJ","city":"Utrecht","kind":"appartement","address":"Van Eysingalaan 313","price":"189000","build_year":"1960","area":"73","service":"102"}
+{"postal_code":"3553 GW","city":"Utrecht","kind":"appartement","address":"Wattlaan 15","price":"239000","build_year":"1915","area":"64"}
+{"postal_code":"3513 CJ","city":"Utrecht","kind":"appartement","address":"Otterstraat 55","price":"225000","build_year":"1903","area":"58","service":"3"}
+{"postal_code":"3584 HA","city":"Utrecht","kind":"appartement","address":"Albert van Dalsumlaan 37","price":"265000","build_year":"1979","area":"83"}
+{"postal_code":"3572 KM","city":"Utrecht","kind":"appartement","address":"Van Esveldstraat 211","price":"285000","build_year":"1991","area":"85","service":"147"}
+{"postal_code":"3532 TA","city":"Utrecht","kind":"appartement","address":"H.J. Schimmelstraat 29","price":"215000","build_year":"1951","area":"77","service":"50"}
+{"postal_code":"3531 CS","city":"Utrecht","kind":"appartement","address":"Kanaalstraat 228 bis","price":"275000","build_year":"1910","area":"109","service":"34"}
+{"postal_code":"3555 CW","city":"Utrecht","kind":"appartement","address":"Berlagestraat 74","price":"149500","build_year":"2010","area":"35","service":"55"}
+{"postal_code":"3582 BC","city":"Utrecht","kind":"house","address":"Abstederdijk 97","price":"399000","build_year":"1900","area":"89"}
+{"postal_code":"3573 BJ","city":"Utrecht","kind":"house","address":"Steve Bikostraat 362","price":"330000","build_year":"1992","area":"104"}
+{"postal_code":"3543 HX","city":"Utrecht","kind":"house","address":"Fred Raymondhof 19","price":"525000","build_year":"2007","area":"182"}
+{"postal_code":"3581 TR","city":"Utrecht","kind":"house","address":"Beekstraat 5","price":"250000","build_year":"1885","area":"51"}
+{"postal_code":"3572 RM","city":"Utrecht","kind":"house","address":"Goedestraat 39 39 bis","price":"750000","build_year":"1906","area":"263"}
+{"postal_code":"3584 ZX","city":"Utrecht","kind":"house","address":"Fien de la Marlaan 76","price":"650000","build_year":"1979","area":"169"}
+{"postal_code":"3555 CW","city":"Utrecht","kind":"appartement","address":"Berlagestraat 72","price":"146500","build_year":"2010","area":"35"}
+{"postal_code":"3554 GN","city":"Utrecht","kind":"appartement","address":"Zwanenvechtlaan 156","price":"185000","build_year":"1961","area":"72","service":"125"}
+{"postal_code":"3573 AK","city":"Utrecht","kind":"appartement","address":"Aartsbisschop Romerostraat 263","price":"215000","build_year":"1991","area":"78"}
+{"postal_code":"3543 GE","city":"Utrecht","kind":"appartement","address":"Glenn Millerpad 9","price":"260000","build_year":"2009","area":"78","service":"140"}
+{"postal_code":"3527 WK","city":"Utrecht","kind":"appartement","address":"Olof Palmelaan 116","price":"249000","build_year":"1988","area":"85"}
+{"postal_code":"3554 TE","city":"Utrecht","kind":"appartement","address":"Vechtplantsoen 46","price":"189000","build_year":"1957","area":"78","service":"140"}
+{"postal_code":"3524 CJ","city":"Utrecht","kind":"appartement","address":"Opsterland 150","price":"170000","build_year":"1982","area":"57","service":"104"}
+{"postal_code":"3523 HN","city":"Utrecht","kind":"appartement","address":"Huis ten Boschlaan 7 I","price":"235000","build_year":"1955","area":"75","service":"122"}
+{"postal_code":"3584 HH","city":"Utrecht","kind":"appartement","address":"Albert van Dalsumlaan 347","price":"198000","build_year":"1979","area":"62"}
+{"postal_code":"3573 AP","city":"Utrecht","kind":"appartement","address":"Aartsbisschop Romerostraat 385","price":"222500","build_year":"1991","area":"69"}
+{"postal_code":"3531 AV","city":"Utrecht","kind":"appartement","address":"Steijnstraat 10 Bis","price":"375000","build_year":"1919","area":"91"}
+{"postal_code":"3514 GW","city":"Utrecht","kind":"appartement","address":"Van Leeuwenhoeckstraat 6 bis","price":"360000","build_year":"1906","area":"95"}
+{"postal_code":"3555 VP","city":"Utrecht","kind":"appartement","address":"C. van Maasdijkstraat 36 studio1","price":"149000","build_year":"2008","area":"40"}
+{"postal_code":"3573 ZH","city":"Utrecht","kind":"house","address":"Augusto Sandinostraat 190","price":"349000","build_year":"1991","area":"103"}
+{"postal_code":"3553 GD","city":"Utrecht","kind":"house","address":"Bessemerlaan 32","price":"449000","build_year":"1920","area":"105"}
+{"postal_code":"3522 BZ","city":"Utrecht","kind":"house","address":"Rijnlaan 242","price":"389000","build_year":"1931","area":"103"}
+{"postal_code":"3522 CK","city":"Utrecht","kind":"house","address":"Gouwestraat 42","price":"325000","build_year":"1938","area":"90"}
+{"postal_code":"3584 GP","city":"Utrecht","kind":"house","address":"Magda Janssenslaan 15","price":"825000","build_year":"1979","area":"216"}
+{"postal_code":"3544 KL","city":"Utrecht","kind":"house","address":"Simon Vestdijkstraat 21","price":"274500","build_year":"2012","area":"82"}
+{"postal_code":"3525 TD","city":"Utrecht","kind":"appartement","address":"Zeeltstraat 103","price":"245000","build_year":"1988","area":"76"}
+{"postal_code":"3555 EN","city":"Utrecht","kind":"appartement","address":"Burgemeester Norbruislaan 308","price":"185000","build_year":"1951","area":"63"}
+{"postal_code":"3552 XE","city":"Utrecht","kind":"appartement","address":"Loevenhoutsedijk 343","price":"285000","build_year":"2010","area":"91"}
+{"postal_code":"3554 HH","city":"Utrecht","kind":"appartement","address":"Prinses Irenelaan 180","price":"239000","build_year":"2005","area":"103","service":"148"}
+{"postal_code":"3511 VD","city":"Utrecht","kind":"house","address":"Andreasstraat 22","price":"249500","build_year":"1900","area":"41"}
+{"postal_code":"3521 AK","city":"Utrecht","kind":"house","address":"Veilinghavenkade 32","price":"288000","build_year":"1911","area":"65"}
+{"postal_code":"3541 DS","city":"Utrecht","kind":"appartement","address":"San Marinostraat 137","price":"345000","build_year":"2017","area":"112"}
+{"postal_code":"3541 DV","city":"Utrecht","kind":"appartement","address":"Romestraat 69","price":"262500","build_year":"2017","area":"75"}
+{"postal_code":"3571 KM","city":"Utrecht","kind":"appartement","address":"Winklerlaan 120","price":"165000","build_year":"1960","area":"46"}
+{"postal_code":"3554 TD","city":"Utrecht","kind":"appartement","address":"Vechtplantsoen 38 1","price":"179000","build_year":"1958","area":"72"}
+{"postal_code":"3522 BB","city":"Utrecht","kind":"appartement","address":"Rijnlaan 37 bisA","price":"67500","build_year":"1930","area":"14"}
+{"postal_code":"3562 AR","city":"Utrecht","kind":"appartement","address":"Dommeringdreef 259","price":"147500","build_year":"1967","area":"57"}
+{"postal_code":"3573 XH","city":"Utrecht","kind":"house","address":"Tulastraat 38","price":"465000","build_year":"1991","area":"125"}
+{"postal_code":"3572 TJ","city":"Utrecht","kind":"house","address":"Oude Kerkstraat 26","price":"849000","build_year":"1906","area":"212"}
+{"postal_code":"3512 KV","city":"Utrecht","kind":"house","address":"Hieronymusplantsoen 5","price":"875000","build_year":"1935","area":"170"}
+{"postal_code":"3583 RV","city":"Utrecht","kind":"house","address":"Vossegatselaan 66","price":"499000","build_year":"1906","area":"176"}
+{"postal_code":"3512 LW","city":"Utrecht","kind":"house","address":"Nieuwegracht 80","price":"699000","build_year":"1939","area":"105"}
+{"postal_code":"3583 CR","city":"Utrecht","kind":"house","address":"Jan van Scorelstraat 42","price":"975000","build_year":"1906","area":"221"}
+{"postal_code":"3581 JS","city":"Utrecht","kind":"house","address":"Prinsenstraat 4","price":"649000","build_year":"1906","area":"132"}
+{"postal_code":"3512 VK","city":"Utrecht","kind":"house","address":"Lange Lauwerstraat 60","price":"499000","build_year":"1906","area":"96"}
+{"postal_code":"3572 TD","city":"Utrecht","kind":"house","address":"Palmstraat 38","price":"485000","build_year":"1906","area":"116"}
+{"postal_code":"3544 MN","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 2)","price":"810000","build_year":"2018","area":"198"}
+{"postal_code":"3544 MN","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 5)","price":"650000","build_year":"2018","area":"189"}
+{"postal_code":"3563 VX","city":"Utrecht","kind":"house","address":"Sao Vicentedreef 55","price":"399500","build_year":"2017","area":"137"}
+{"postal_code":"3522 DG","city":"Utrecht","kind":"house","address":"Reyer Anslostraat 39","price":"639000","build_year":"2000","area":"140"}
+{"postal_code":"3571 XX","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 10)","price":"605000","build_year":"2019","area":"157"}
+{"postal_code":"3571 XX","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 7)","price":"649900","build_year":"2019","area":"164"}
+{"postal_code":"3571 XX","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 8)","price":"648500","build_year":"2019","area":"163"}
+{"postal_code":"3571 XX","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 12)","price":"659900","build_year":"2019","area":"164"}
+{"postal_code":"3571 XX","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 18)","price":"658000","build_year":"2019","area":"167"}
+{"postal_code":"3571 XX","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 19)","price":"659900","build_year":"2019","area":"167"}
+{"postal_code":"3571 XX","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 20)","price":"709000","build_year":"2019","area":"176"}
+{"postal_code":"3527 GA","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 7)","price":"363000","build_year":"2019","area":"153"}
+{"postal_code":"3527 GA","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 24)","price":"352500","build_year":"2019","area":"130"}
+{"postal_code":"3545 EA","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 212)","price":"370000","build_year":"2018","area":"147"}
+{"postal_code":"3545 EA","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 254)","price":"585000","build_year":"2018","area":"155"}
+{"postal_code":"3545 EA","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 256)","price":"525000","build_year":"2018","area":"170"}
+{"postal_code":"3545 EA","city":"Utrecht","kind":"house","address":"Bouwnummer (Bouwnr. 253)","price":"374000","build_year":"2018","area":"147"}

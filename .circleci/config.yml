@@ -1,0 +1,67 @@
+version: 2
+
+jobs:
+  checkout:
+    docker:
+      - image: node:8.6.0
+    steps:
+      - checkout
+      - persist_to_workspace:
+          root: ~/
+          paths:
+            - ./*
+
+  funda:
+    docker:
+      - image: cypress/base:8
+    steps:
+      - attach_workspace:
+          at: ~/
+      - run:
+          name: Install Cypress
+          working_directory: funda
+          command: yarn install
+      - run:
+          name: Gather data
+          working_directory: funda
+          command: |
+            ./run.sh koop utrecht
+      - run:
+          name: Send data to big query
+          working_directory: funda
+          command: |
+            cat koop_utrecht_houses.json
+
+  huizenzoeker:
+    docker:
+      - image:
+    steps:
+      - attach_workspace:
+          at: ~/
+      - run:
+          name: Install Scrapy
+          working_directory: huizenzoeker
+          command: |
+            pip install scrapy
+      - run:
+          name: Gather data
+          working_directory: huizenzoeker
+          command: |
+            crawl huizenzoeker_spider -a place=utrecht -o huur_utrecht_houses.json -t jsonlines
+      - run:
+          name: Send data to big query
+          working_directory: huizenzoeker
+          command: |
+            cat huur_utrecht_houses.json
+
+workflows:
+  version: 2
+  commit:
+    jobs:
+      - checkout
+      - funda:
+          requires:
+            - checkout
+      - huizenzoeker:
+          requires:
+            - checkout
