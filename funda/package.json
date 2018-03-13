@@ -1,0 +1,10 @@
+{
+  "name": "funda",
+  "version": "1.0.0",
+  "description": "Funda crawler",
+  "main": "index.js",
+  "private": true,
+  "devDependencies": {
+    "cypress": "1.4.2"
+  }
+}

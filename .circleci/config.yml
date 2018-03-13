@@ -20,11 +20,11 @@ jobs:
       - run:
           name: Install Cypress
           working_directory: funda
-          command: npm install --save-dev cypress
+          command: npm install
       - run:
           name: Install Server
           working_directory: funda/server
-          command: yarn install
+          command: npm install
       - run:
           name: Gather data
           working_directory: funda
