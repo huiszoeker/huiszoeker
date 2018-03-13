@@ -20,6 +20,10 @@ jobs:
       - run:
           name: Install Cypress
           working_directory: funda
+          command: npm install --save-dev cypress
+      - run:
+          name: Install Server
+          working_directory: funda/server
           command: yarn install
       - run:
           name: Gather data
@@ -47,7 +51,7 @@ jobs:
           name: Gather data
           working_directory: huizenzoeker
           command: |
-            crawl huizenzoeker_spider -a place=utrecht -o huur_utrecht_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=utrecht -o huur_utrecht_houses.json -t jsonlines
       - run:
           name: Send data to big query
           working_directory: huizenzoeker
