@@ -34,7 +34,7 @@ jobs:
 
   huizenzoeker:
     docker:
-      - image:
+      - image: python:3.6.4
     steps:
       - attach_workspace:
           at: ~/
