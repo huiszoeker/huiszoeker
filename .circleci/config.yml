@@ -19,8 +19,7 @@ jobs:
           at: ~/
       - run:
           name: Upload to Big Query
-          working_directory: .circleci
-          command: bash bigquery.sh
+          command: bash .circleci/bigquery.sh
 
   funda:
     docker:
@@ -74,13 +73,14 @@ workflows:
   commit:
     jobs:
       - checkout
+      - funda:
+          requires:
+            - checkout
       - upload:
           requires:
             - checkout
 
-#      - funda:
-#          requires:
-#            - checkout
+
 #      - huizenzoeker:
 #          requires:
 #            - checkout

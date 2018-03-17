@@ -4,7 +4,7 @@ describe('Funda', () => {
 
   it('get max number of pages', () => {
     cy
-    	.visit(`https://www.funda.nl/${Cypress.env('KIND')}/${Cypress.env('PLACE')}`)
+    	.visit(`https://www.funda.nl/${Cypress.env('KIND')}/${Cypress.env('PLACE')}/1-dag`)
     	.get('.pagination-pages a:last-child')
     	.each(function($el) {
     		max_pages = 2; // $el.attr('data-pagination-page');
@@ -15,7 +15,7 @@ describe('Funda', () => {
   	for (let i = 1; i <= max_pages; i++) {
 	  cy
 	  	.wait(Math.floor(2500 + 5000 * Math.random()))
-    	.visit(`https://www.funda.nl/${Cypress.env('KIND')}/${Cypress.env('PLACE')}/p${i}`)
+    	.visit(`https://www.funda.nl/${Cypress.env('KIND')}/${Cypress.env('PLACE')}/1-dag/p${i}`)
     	.get(`.search-result-header > a[href^="https://www.funda.nl/${Cypress.env('KIND')}"][href*="resultlist"]`)
     	.each(function($el) {
     	  const url = $el.attr('href');
