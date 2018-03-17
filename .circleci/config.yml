@@ -48,7 +48,7 @@ jobs:
       - persist_to_workspace:
           root: ~/
           paths:
-            - funda/koop_utrecht_houses.json
+            - ./*
 
   huizenzoeker:
     docker:
