@@ -31,7 +31,7 @@ class FundaSpider(CrawlSpider):
         postal_code = re.search(r'\d{4} [A-Z]{2}', location_node).group(0)
         city = re.search(r'\d{4} [A-Z]{2} \w+',location_node).group(0).split()[2]
         
-        print postal_code
+        print (postal_code)
 
         address = response.xpath('//div[@class="details"]/h1/text()').extract()[0]
 
@@ -55,6 +55,6 @@ class FundaSpider(CrawlSpider):
         new_item['city'] = city
 
 
-        print new_item
+        print (new_item)
 
         yield new_item

@@ -11,6 +11,17 @@ jobs:
           paths:
             - ./*
 
+  upload:
+    docker:
+      - image: google/cloud-sdk:latest
+    steps:
+      - attach_workspace:
+          at: ~/
+      - run:
+          name: Upload to Big Query
+          working_directory: .circleci
+          command: bash bigquery.sh
+
   funda:
     docker:
       - image: cypress/base:8
@@ -63,9 +74,13 @@ workflows:
   commit:
     jobs:
       - checkout
-      - funda:
+      - upload
           requires:
             - checkout
-      - huizenzoeker:
-          requires:
-            - checkout
+
+#      - funda:
+#          requires:
+#            - checkout
+#      - huizenzoeker:
+#          requires:
+#            - checkout
