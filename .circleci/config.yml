@@ -71,7 +71,6 @@ jobs:
           working_directory: huizenzoeker
           command: |
             cat huur_utrecht_houses.json
-      -
 
 workflows:
   version: 2
