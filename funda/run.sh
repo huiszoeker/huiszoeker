@@ -24,7 +24,9 @@ do
  	  then
         break
       fi
-   done 
+   done
+
+   break
 done
 
 sleep 10

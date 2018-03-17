@@ -45,6 +45,10 @@ jobs:
           working_directory: funda
           command: |
             cat koop_utrecht_houses.json
+      - persist_to_workspace:
+          root: ~/
+          paths:
+            - ./funda/koop_utrecht_houses.json
 
   huizenzoeker:
     docker:
@@ -67,6 +71,7 @@ jobs:
           working_directory: huizenzoeker
           command: |
             cat huur_utrecht_houses.json
+      -
 
 workflows:
   version: 2
