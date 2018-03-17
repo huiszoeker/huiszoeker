@@ -78,7 +78,7 @@ workflows:
             - checkout
       - upload:
           requires:
-            - checkout
+            - funda
 
 
 #      - huizenzoeker:
