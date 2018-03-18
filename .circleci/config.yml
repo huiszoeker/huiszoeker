@@ -86,7 +86,7 @@ workflows:
   commit:
     jobs:
       - checkout
-      - huizenzoeker:
+      - funda:
           requires:
             - checkout
       - huizenzoeker:
