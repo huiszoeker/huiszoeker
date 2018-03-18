@@ -27,4 +27,5 @@ do
 done
 
 sleep 10
-kill $SERVER_PID
+kill -9 $SERVER_PID
+sleep 10

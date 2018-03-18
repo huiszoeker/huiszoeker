@@ -7,7 +7,7 @@ describe('Funda', () => {
     	.visit(`https://www.funda.nl/${Cypress.env('KIND')}/${Cypress.env('PLACE')}/1-dag`)
     	.get('.pagination-pages a:last-child')
     	.each(function($el) {
-    		max_pages = 2; // $el.attr('data-pagination-page');
+    		max_pages = $el.attr('data-pagination-page');
     	});
   });
 
