@@ -81,12 +81,12 @@ jobs:
           name: Gather data
           working_directory: huizenzoeker
           command: |
-            scrapy crawl huizenzoeker_spider -a place=utrecht    province=utrecht       -o huur_utrecht_houses.json -t jsonlines
-            scrapy crawl huizenzoeker_spider -a place=amersfoort province=utrecht       -o huur_amersfoort_houses.json -t jsonlines
-            scrapy crawl huizenzoeker_spider -a place=hilversum  province=noord-holland -o huur_hilversum_houses.json -t jsonlines
-            scrapy crawl huizenzoeker_spider -a place=amsterdam  province=noord-holland -o huur_amsterdam_houses.json -t jsonlines
-            scrapy crawl huizenzoeker_spider -a place=eindhoven  province=noord-brabant -o huur_eindhoven_houses.json -t jsonlines
-            scrapy crawl huizenzoeker_spider -a place=rotterdam  province=zuid-holland  -o huur_rotterdam_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=utrecht    -a province=utrecht       -o huur_utrecht_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=amersfoort -a province=utrecht       -o huur_amersfoort_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=hilversum  -a province=noord-holland -o huur_hilversum_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=amsterdam  -a province=noord-holland -o huur_amsterdam_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=eindhoven  -a province=noord-brabant -o huur_eindhoven_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=rotterdam  -a province=zuid-holland  -o huur_rotterdam_houses.json -t jsonlines
       - run:
           name: Send data to big query
           working_directory: huizenzoeker
