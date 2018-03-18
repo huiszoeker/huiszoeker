@@ -12,6 +12,9 @@ cd ..
 
 sleep 5
 
+echo "URLs:\n"
+cat ${KIND}_${PLACE}_urls.txt
+
 cat ${KIND}_${PLACE}_urls.txt | while read line
 do
    echo $line
@@ -27,5 +30,9 @@ do
 done
 
 sleep 10
+
+echo "Killing server:\n"
+echo $SERVER_ID
+
 kill -9 $SERVER_PID
 sleep 10
