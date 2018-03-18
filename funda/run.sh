@@ -15,7 +15,6 @@ sleep 5
 cat ${KIND}_${PLACE}_urls.txt | while read line
 do
    echo $line
-   sleep 10
    for i in `seq 1 3`;
    do
    	  echo $i
@@ -25,8 +24,6 @@ do
         break
       fi
    done
-
-   break
 done
 
 sleep 10

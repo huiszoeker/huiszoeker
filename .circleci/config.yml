@@ -23,8 +23,19 @@ jobs:
       - run:
           name: Upload to Big Query
           command: |
-            bash .circleci/bigquery-load.sh funda.test_koop funda/koop_utrecht_houses.json
-            bash .circleci/bigquery-load.sh funda.test_huur huizenzoeker/huur_utrecht_houses.json
+            bash .circleci/bigquery-load.sh funda.koop funda/koop_utrecht_houses.json
+            bash .circleci/bigquery-load.sh funda.koop funda/koop_amersfoort_houses.json
+            bash .circleci/bigquery-load.sh funda.koop funda/koop_hilversum_houses.json
+            bash .circleci/bigquery-load.sh funda.koop funda/koop_amsterdam_houses.json
+            bash .circleci/bigquery-load.sh funda.koop funda/koop_eindhoven_houses.json
+            bash .circleci/bigquery-load.sh funda.koop funda/koop_rotterdam_houses.json
+
+            bash .circleci/bigquery-load.sh funda.huur huizenzoeker/huur_utrecht_houses.json
+            bash .circleci/bigquery-load.sh funda.huur huizenzoeker/huur_amersfoort_houses.json
+            bash .circleci/bigquery-load.sh funda.huur huizenzoeker/huur_hilversum_houses.json
+            bash .circleci/bigquery-load.sh funda.huur huizenzoeker/huur_amsterdam_houses.json
+            bash .circleci/bigquery-load.sh funda.huur huizenzoeker/huur_eindhoven_houses.json
+            bash .circleci/bigquery-load.sh funda.huur huizenzoeker/huur_rotterdam_houses.json
 
   funda:
     docker:
@@ -45,11 +56,11 @@ jobs:
           working_directory: funda
           command: |
             ./run.sh koop utrecht
-      - run:
-          name: Send data to big query
-          working_directory: funda
-          command: |
-            cat koop_utrecht_houses.json
+            ./run.sh koop amersfoort
+            ./run.sh koop hilversum
+            ./run.sh koop amsterdam
+            ./run.sh koop eindhoven
+            ./run.sh koop rotterdam
       - persist_to_workspace:
           root: ~/
           paths:
@@ -70,7 +81,12 @@ jobs:
           name: Gather data
           working_directory: huizenzoeker
           command: |
-            scrapy crawl huizenzoeker_spider -a place=utrecht -o huur_utrecht_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=utrecht    province=utrecht       -o huur_utrecht_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=amersfoort province=utrecht       -o huur_amersfoort_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=hilversum  province=noord-holland -o huur_hilversum_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=amsterdam  province=noord-holland -o huur_amsterdam_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=eindhoven  province=noord-brabant -o huur_eindhoven_houses.json -t jsonlines
+            scrapy crawl huizenzoeker_spider -a place=rotterdam  province=zuid-holland  -o huur_rotterdam_houses.json -t jsonlines
       - run:
           name: Send data to big query
           working_directory: huizenzoeker
@@ -84,6 +100,27 @@ jobs:
 workflows:
   version: 2
   commit:
+    jobs:
+      - checkout
+      - funda:
+          requires:
+            - checkout
+      - huizenzoeker:
+          requires:
+            - checkout
+      - upload:
+          requires:
+            - funda
+            - huizenzoeker
+
+  nightly:
+    triggers:
+      - schedule:
+          cron: "0 1 * * *"
+          filters:
+            branches:
+              only:
+                - master
     jobs:
       - checkout
       - funda:
