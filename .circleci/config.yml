@@ -53,7 +53,7 @@ jobs:
       - persist_to_workspace:
           root: ~/
           paths:
-            - ./*
+            - ./funda/*.json
 
   huizenzoeker:
     docker:
@@ -79,7 +79,7 @@ jobs:
       - persist_to_workspace:
           root: ~/
           paths:
-            - ./*
+            - ./huizenzoeker/*.json
 
 workflows:
   version: 2
