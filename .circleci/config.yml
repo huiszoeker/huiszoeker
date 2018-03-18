@@ -56,15 +56,14 @@ jobs:
           working_directory: funda
           command: |
             ./run.sh koop utrecht
-            ./run.sh koop amersfoort
-            ./run.sh koop hilversum
-            ./run.sh koop amsterdam
-            ./run.sh koop eindhoven
-            ./run.sh koop rotterdam
       - persist_to_workspace:
           root: ~/
           paths:
             - ./project/funda/*.json
+      - store_artifacts:
+          path: cypress/videos
+      - store_artifacts:
+          path: cypress/screenshots
 
   huizenzoeker:
     docker:

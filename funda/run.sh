@@ -17,6 +17,7 @@ cat ${KIND}_${PLACE}_urls.txt
 
 cat ${KIND}_${PLACE}_urls.txt | while read line
 do
+   sleep 10
    echo $line
    for i in `seq 1 3`;
    do

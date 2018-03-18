@@ -3,11 +3,14 @@ describe('Funda', () => {
   let urls = [];
 
   it('get max number of pages', () => {
+  	cy.log('start');
+
     cy
     	.visit(`https://www.funda.nl/${Cypress.env('KIND')}/${Cypress.env('PLACE')}/1-dag`)
     	.get('.pagination-pages > a[data-pagination-page]')
     	.each(function($el) {
     		max_pages = Math.max(max_pages, parseInt($el.attr('data-pagination-page')));
+    		cy.log(max_pages);
     	});
   });
 
