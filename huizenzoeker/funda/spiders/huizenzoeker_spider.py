@@ -18,8 +18,8 @@ class FundaSpider(CrawlSpider):
         links = self.le1.extract_links(response)
 
         for link in links:
-            print "URL"
-            print link.url
+            print ("URL")
+            print (link.url)
             item = FundaItem()
             item['url'] = link.url
             yield scrapy.Request(link.url, callback=self.parse_dir_contents, meta={'item': item})
