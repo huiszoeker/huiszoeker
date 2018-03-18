@@ -1,0 +1,1 @@
+bq load --autodetect --source_format=NEWLINE_DELIMITED_JSON $1 $2

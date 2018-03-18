@@ -13,7 +13,6 @@ describe('Funda spec', () => {
 	  .visit(url)
       .wait(10);
 
-
     cy
       .get('.object-header__address-city')
       .then(function($el) {
@@ -84,7 +83,8 @@ describe('Funda spec', () => {
                           price,
                           build_year,
                           area,
-                          service
+                          service,
+                          url
                         });
 
                        console.log(body);
@@ -106,7 +106,8 @@ describe('Funda spec', () => {
                   address,
                   price,
                   build_year,
-                  area
+                  area,
+                  url
                 });
 
                console.log(body);

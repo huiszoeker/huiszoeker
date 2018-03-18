@@ -10,7 +10,7 @@ class FundaSpider(CrawlSpider):
     allowed_domains = ["huizenzoeker.nl"]
 
     def __init__(self, place='utrecht'):
-        self.start_urls = ["https://www.huizenzoeker.nl/huur/utrecht/%s/%s/" % (place, page_number) for page_number in range(1,2)]
+        self.start_urls = ["https://www.huizenzoeker.nl/huur/utrecht/%s/%s/?anbd=1" % (place, page_number) for page_number in range(1,2)]
         self.base_url = "https://www.huizenzoeker.nl/huur/%s/" % place
         self.le1 = LinkExtractor(allow=r'details.html$')
 

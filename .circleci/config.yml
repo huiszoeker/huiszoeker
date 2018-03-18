@@ -18,8 +18,13 @@ jobs:
       - attach_workspace:
           at: ~/
       - run:
+          name: Connect to Big Query
+          command: bash .circleci/bigquery-connect.sh
+      - run:
           name: Upload to Big Query
-          command: bash .circleci/bigquery.sh
+          command: |
+            bash .circleci/bigquery-load.sh funda.test_koop funda/koop_utrecht_houses.json
+            bash .circleci/bigquery-load.sh funda.test_huur huizenzoeker/huur_utrecht_houses.json
 
   funda:
     docker:
@@ -71,20 +76,23 @@ jobs:
           working_directory: huizenzoeker
           command: |
             cat huur_utrecht_houses.json
+      - persist_to_workspace:
+          root: ~/
+          paths:
+            - ./*
 
 workflows:
   version: 2
   commit:
     jobs:
       - checkout
-      - funda:
+      - huizenzoeker:
+          requires:
+            - checkout
+      - huizenzoeker:
           requires:
             - checkout
       - upload:
           requires:
             - funda
-
-
-#      - huizenzoeker:
-#          requires:
-#            - checkout
+            - huizenzoeker
