@@ -5,13 +5,16 @@ describe('Funda', () => {
   it('get max number of pages', () => {
     cy
     	.visit(`https://www.funda.nl/${Cypress.env('KIND')}/${Cypress.env('PLACE')}/1-dag`)
-    	.get('.pagination-pages a:last-child')
+    	.get('.pagination-pages > a[data-pagination-page]')
     	.each(function($el) {
-    		max_pages = $el.attr('data-pagination-page');
+    		max_pages = Math.max(max_pages, $el.attr('data-pagination-page'));
     	});
   });
 
   it('gather urls', () => {
+  	console.log('max pages');
+  	console.log(max_pages);
+
   	for (let i = 1; i <= max_pages; i++) {
 	  cy
 	  	.wait(Math.floor(2500 + 5000 * Math.random()))
